@@ -1,0 +1,5 @@
+id,description,tags,price,weight,origin,dest,gift,label_id,price_bin,weight_bin
+1,iphone14 128g,"electronics,phone,smart,cell,apple",999,0.4,CA,US,0,0,200+,0.25-0.5
+12,plastic blocks 100pc,"toys,blocks,plastic,kids",30,1.1,CA,US,0,5,25-50,1-2
+19,ipad 10.2 64g,"electronics,computer,tablet,apple",429,0.5,CA,US,0,9,200+,0.25-0.5
+14,hcover cookbook,"books,printed,hardcover",28,0.9,CA,US,0,6,25-50,0.5-1

@@ -1,0 +1,10 @@
+{
+  "dataset": "clean",
+  "model": "knn_k7_l2",
+  "acc_valid": 0.5,
+  "acc_test": 0.0,
+  "macro_f1_valid": 0.3333333333333333,
+  "macro_f1_test": 0.0,
+  "acc3_valid": 1.0,
+  "acc3_test": 0.5
+}

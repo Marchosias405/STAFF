@@ -1,21 +1,25 @@
-description,label_id
-"iphone 14 128gb phone",0
-"samsung s21 ultra 5g phn",0
-"pixel 7 128gb phone",0
-"sony xm4 hdphns",1
-"jbl flip5 bt spkr",1
-"bosch 18v dril",2
-"mens cotton tshrt L",3
-"womens tanktop M",3
-"unisex run shoes 10",4
-"plush teddy br toy",5
-"plastc bldg blocks 100pcs",5
-"pprback novel 300pg",6
-"hrdcover cookbook 200pg",6
-"herbal moist face crm 50ml",7
-"spf50 sunscn lotion 100ml",7
-"wood din table 4seater",8
-"dell insp 15 lptp 8gb",9
-"ipad pro 64g tab",9
-"dark choc bar 70% 100g",10
-"li-ion recharg batt 3000mah",11
+id,description,tags,price,weight,origin,dest,gift,label_id
+1,"iphone14 128g","electronics,phone,smart,cell,apple",999,0.40,CA,US,0,0
+2,"galaxy s21 ultra 5g","electronics,phone,smart,android,samsung",1199,0.45,CA,US,0,0
+3,"pixel7 128g","electronics,phone,android,google",799,0.42,CA,GB,0,0
+4,"sony xm4 wireless hdphns","electronics,audio,headphones,wireless,sony",349,0.30,CA,US,1,1
+5,"jbl flip5 bt spkr","electronics,audio,speaker,bt,jbl",129,0.55,CA,US,0,1
+6,"bosch 18v drill","tools,powertool,drill,cordless",199,2.00,CA,US,0,2
+7,"dewalt 20v impact drv","tools,powertool,driver,cordless",229,1.60,CA,US,0,2
+8,"mens cotton tee L","apparel,tshirt,cotton,men",20,0.20,CA,US,1,3
+9,"womens tank M","apparel,tanktop,cotton,women",18,0.18,CA,US,0,3
+10,"run shoes sz10","footwear,sneakers,running,textile",95,0.80,CA,US,0,4
+11,"plush teddy br","toys,plush,teddy,kids",25,0.35,CA,US,1,5
+12,"plastic blocks 100pc","toys,blocks,plastic,kids",30,1.10,CA,US,0,5
+13,"pback novel 300pg","books,printed,paperback",16,0.45,CA,US,0,6
+14,"hcover cookbook","books,printed,hardcover",28,0.90,CA,US,0,6
+15,"face crm 50ml","cosmetics,skincare,cream",22,0.10,CA,US,0,7
+16,"spf50 sunscrn 100ml","cosmetics,skincare,sunscreen",18,0.15,CA,US,1,7
+17,"wood din table","furniture,table,wood",299,18.00,CA,US,0,8
+18,"dell insp15 8g/256","electronics,computer,laptop,dell",799,1.80,CA,US,0,9
+19,"ipad 10.2 64g","electronics,computer,tablet,apple",429,0.50,CA,US,0,9
+20,"dark choc 70% 100g","food,chocolate,cocoa,snack",4,0.10,CA,US,1,10
+21,"li-ion batt 3000mah","electronics,battery,lithium",15,0.06,CA,US,0,11
+22,"mech kb gaming","electronics,computer,keyboard,gaming",139,0.90,CA,US,0,9
+23,"makeup kit + brush","cosmetics,makeup,kit",35,0.40,CA,US,1,7
+24,"kids puzzle 500pc","toys,puzzle,kids",14,0.55,CA,US,0,5
