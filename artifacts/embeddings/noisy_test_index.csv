@@ -1,0 +1,5 @@
+id,description,tags,price,weight,origin,dest,gift,label_id,price_bin,weight_bin
+17,wood din table,"furniture,table,wood",299,18.0,CA,US,0,8,200+,2+
+10,run shoes sz10,"footwear,sneakers,running,textile",95,0.8,CA,US,0,4,50-100,0.5-1
+9,womens tank M,"apparel,tanktop,cotton,women",18,0.18,CA,US,0,3,0-25,0-0.25
+2,galaxy s21 ultra 5g,"electronics,phone,smart,android,samsung",1199,0.45,CA,US,0,0,200+,0.25-0.5

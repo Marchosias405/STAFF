@@ -1,0 +1,9 @@
+term,category,notes
+"lithium battery","Dangerous Goods","Classified as hazardous material – risk of fire/overheating if mishandled:contentReference[oaicite:19]{index=19}"
+"perfume","Flammable Liquid","Contains high alcohol content – treated as Class 3 flammable (hazmat):contentReference[oaicite:20]{index=20}"
+"ammunition","Prohibited","Cannot be shipped by standard carriers (explosive hazard):contentReference[oaicite:21]{index=21}"
+"cannabis","Prohibited","Illegal to ship marijuana/CBD products (banned substance):contentReference[oaicite:22]{index=22}"
+"ivory","Prohibited","Trade in ivory is banned (CITES restrictions):contentReference[oaicite:23]{index=23}"
+"firearm","Restricted","Requires special contract and documentation (weapon regulations):contentReference[oaicite:24]{index=24}"
+"live animal","Restricted","Special live animal shipping service required (not in regular parcel):contentReference[oaicite:25]{index=25}"
+"perishable","Special Handling","Food/perishable items require temperature control & fast delivery:contentReference[oaicite:26]{index=26}"

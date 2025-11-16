@@ -1,0 +1,25 @@
+id,description,tags,price,weight,origin,dest,gift,label_id
+1,"Apple iPhone 14 128GB smartphone","electronics,phone,smartphone,cellular,touchscreen,brand_apple",999,0.40,CA,US,0,0
+2,"Samsung Galaxy S21 Ultra 5G","electronics,phone,smartphone,cellular,android,brand_samsung",1199,0.45,CA,US,0,0
+3,"Google Pixel 7 128GB","electronics,phone,smartphone,cellular,android,brand_google",799,0.42,CA,GB,0,0
+4,"Sony WH-1000XM4 wireless headphones","electronics,audio,headphones,wireless,noise_cancelling,brand_sony",349,0.30,CA,US,1,1
+5,"JBL Flip 5 portable Bluetooth speaker","electronics,audio,speaker,wireless,portable,brand_jbl",129,0.55,CA,US,0,1
+6,"Bosch 18V cordless drill kit","tools,power_tool,drill,cordless,brand_bosch",199,2.00,CA,US,0,2
+7,"DeWalt 20V compact impact driver","tools,power_tool,driver,cordless,brand_dewalt",229,1.60,CA,US,0,2
+8,"Men's cotton T-shirt size L","apparel,shirt,tshirt,cotton,men,clothing",20,0.20,CA,US,1,3
+9,"Women's cotton tank top size M","apparel,shirt,tanktop,cotton,women,clothing",18,0.18,CA,US,0,3
+10,"Unisex running shoes size 10","footwear,shoes,sneakers,running,textile_upper,unisex",95,0.80,CA,US,0,4
+11,"Kids plush teddy bear","toys,plush,teddy,children,gift_item",25,0.35,CA,US,1,5
+12,"Plastic building blocks set (100 pcs)","toys,blocks,plastic,construction,children",30,1.10,CA,US,0,5
+13,"Paperback fiction novel 300 pages","books,printed,paperback,reading,english",16,0.45,CA,US,0,6
+14,"Hardcover cookbook 200 pages","books,printed,hardcover,cooking,recipes",28,0.90,CA,US,0,6
+15,"Herbal moisturizing face cream 50ml","cosmetics,skincare,cream,moisturizer,herbal",22,0.10,CA,US,0,7
+16,"SPF50 sunscreen lotion 100ml","cosmetics,skincare,sunscreen,lotion,spf50",18,0.15,CA,US,1,7
+17,"Wooden dining table (4-seater)","furniture,table,wood,home,dining",299,18.00,CA,US,0,8
+18,"Dell Inspiron 15 laptop 8GB/256GB","electronics,computer,laptop,brand_dell,ssd,windows",799,1.80,CA,US,0,9
+19,"Apple iPad 10.2-inch 64GB","electronics,computer,tablet,brand_apple,ipad",429,0.50,CA,US,0,9
+20,"Dark chocolate bar 70% cacao 100g","food,chocolate,cocoa,snack,bar,70_percent",4,0.10,CA,US,1,10
+21,"Rechargeable lithium-ion battery 3000mAh","electronics,battery,lithium,rechargeable,cell,18650",15,0.06,CA,US,0,11
+22,"Gaming mechanical keyboard","electronics,computer,keyboard,peripheral,gaming",139,0.90,CA,US,0,9
+23,"Make-up kit with brushes","cosmetics,makeup,kit,brushes,beauty",35,0.40,CA,US,1,7
+24,"Children’s puzzle (500 pieces)","toys,puzzle,board,children,educational",14,0.55,CA,US,0,5
