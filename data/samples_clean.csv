@@ -499,3 +499,5 @@ id,description,tags,price,weight,origin,dest,gift,label_id
 498,"Wooden home office side cabinet","furniture,cabinet,wood,office,home",189.00,15.30,CA,US,0,8
 499,"Business desktop PC 8GB/512GB","electronics,computer,desktop,office,ssd",749.00,6.40,CA,US,0,9
 500,"Chocolate mix variety pack 200g","food,chocolate,snack,variety",7.00,0.22,CA,US,0,10
+501,"Matte lipstick for makeup","cosmetics,makeup,lipstick,beauty",25,0.05,CA,US,0,7
+502,"Luxury lipstick gift set","cosmetics,makeup,lipstick,gift_item",60,0.12,CA,US,1,7

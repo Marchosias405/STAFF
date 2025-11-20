@@ -1,17 +1,352 @@
 id,description,tags,price,weight,origin,dest,gift,label_id,price_bin,weight_bin
-22,Gaming mechanical keyboard,"electronics,computer,keyboard,peripheral,gaming",139,0.9,CA,US,0,9,100-200,0.5-1
-6,Bosch 18V cordless drill kit,"tools,power_tool,drill,cordless,brand_bosch",199,2.0,CA,US,0,2,100-200,1-2
-3,Google Pixel 7 128GB,"electronics,phone,smartphone,cellular,android,brand_google",799,0.42,CA,GB,0,0,200+,0.25-0.5
-13,Paperback fiction novel 300 pages,"books,printed,paperback,reading,english",16,0.45,CA,US,0,6,0-25,0.25-0.5
-16,SPF50 sunscreen lotion 100ml,"cosmetics,skincare,sunscreen,lotion,spf50",18,0.15,CA,US,1,7,0-25,0-0.25
-4,Sony WH-1000XM4 wireless headphones,"electronics,audio,headphones,wireless,noise_cancelling,brand_sony",349,0.3,CA,US,1,1,200+,0.25-0.5
-5,JBL Flip 5 portable Bluetooth speaker,"electronics,audio,speaker,wireless,portable,brand_jbl",129,0.55,CA,US,0,1,100-200,0.5-1
-23,Make-up kit with brushes,"cosmetics,makeup,kit,brushes,beauty",35,0.4,CA,US,1,7,25-50,0.25-0.5
-18,Dell Inspiron 15 laptop 8GB/256GB,"electronics,computer,laptop,brand_dell,ssd,windows",799,1.8,CA,US,0,9,200+,1-2
-21,Rechargeable lithium-ion battery 3000mAh,"electronics,battery,lithium,rechargeable,cell,18650",15,0.06,CA,US,0,11,0-25,0-0.25
-24,Children’s puzzle (500 pieces),"toys,puzzle,board,children,educational",14,0.55,CA,US,0,5,0-25,0.5-1
-8,Men's cotton T-shirt size L,"apparel,shirt,tshirt,cotton,men,clothing",20,0.2,CA,US,1,3,0-25,0-0.25
-11,Kids plush teddy bear,"toys,plush,teddy,children,gift_item",25,0.35,CA,US,1,5,0-25,0.25-0.5
-15,Herbal moisturizing face cream 50ml,"cosmetics,skincare,cream,moisturizer,herbal",22,0.1,CA,US,0,7,0-25,0-0.25
-20,Dark chocolate bar 70% cacao 100g,"food,chocolate,cocoa,snack,bar,70_percent",4,0.1,CA,US,1,10,0-25,0-0.25
-7,DeWalt 20V compact impact driver,"tools,power_tool,driver,cordless,brand_dewalt",229,1.6,CA,US,0,2,200+,1-2
+193,Vitamin C brightening cream 60ml,"cosmetics,skincare,cream,brightening,face",19.0,0.16,CA,US,0,7,0-25,0-0.25
+245,Student desktop PC 8GB/256GB,"electronics,computer,desktop,student,ssd",649.0,6.5,CA,US,0,9,200+,2+
+211,USB rechargeable mini fan,"electronics,battery,fan,portable,rechargeable",14.0,0.18,CA,US,0,11,0-25,0-0.25
+259,Gaming ultrabook 16GB/1TB,"electronics,computer,laptop,gaming,ssd",1599.0,1.95,CA,US,0,9,200+,1-2
+447,Rechargeable compact flashlight,"electronics,battery,flashlight,compact",18.0,0.12,CA,US,0,11,0-25,0-0.25
+492,Women's knit cardigan size S,"apparel,cardigan,knit,women,clothing",38.0,0.52,CA,US,0,3,25-50,0.5-1
+114,Carry-on travel backpack 40L,"bags,luggage,backpack,travel,outdoor",75.0,0.85,CA,US,0,14,50-100,0.5-1
+329,Rechargeable mini spotlight,"electronics,battery,spotlight,rechargeable",17.0,0.12,CA,US,0,11,0-25,0-0.25
+361,Rechargeable mini desk lamp,"electronics,battery,lamp,desk,rechargeable",19.0,0.22,CA,US,0,11,0-25,0-0.25
+188,Women's thermal leggings size L,"apparel,leggings,thermal,women,clothing",28.0,0.33,CA,US,0,3,25-50,0.25-0.5
+136,Portable CD radio player,"electronics,audio,player,cd,radio",52.0,1.1,CA,US,0,18,50-100,1-2
+261,Rechargeable clip-on reading light,"electronics,battery,light,reading,clip_on",15.0,0.08,CA,US,0,11,0-25,0-0.25
+115,Plastic dishware set (16 pcs),"kitchen,plastic,dishware,plates,cups",24.0,1.1,CA,US,0,15,0-25,1-2
+238,Women's active yoga leggings size XL,"apparel,leggings,yoga,women,clothing",29.0,0.38,CA,US,0,3,25-50,0.25-0.5
+324,Classic detective novel 290 pages,"books,printed,paperback,reading,detective",12.0,0.33,CA,US,0,6,0-25,0.25-0.5
+90,32-inch office monitor,"electronics,monitor,display,32_inch",259.0,6.0,CA,US,0,19,200+,2+
+161,Rechargeable LED book light,"electronics,battery,light,reading,rechargeable",16.0,0.09,CA,US,0,11,0-25,0-0.25
+478,Historical memoir 350 pages,"books,printed,paperback,reading,memoir",12.0,0.42,CA,US,0,6,0-25,0.25-0.5
+381,Large roller suitcase 30 inch,"bags,luggage,travel,suitcase,large",189.0,5.3,CA,US,0,14,100-200,2+
+171,Stereo desktop speakers,"electronics,audio,speaker,stereo,desktop",89.0,1.3,CA,US,0,1,50-100,1-2
+156,Detective mystery novel 310 pages,"books,printed,paperback,reading,mystery",12.0,0.32,CA,US,0,6,0-25,0.25-0.5
+355,Kids wooden shape sorter toy,"toys,wooden,children,shapes,educational",18.0,0.75,CA,US,0,5,0-25,0.5-1
+186,26-inch IPS office monitor,"electronics,monitor,display,26_inch",169.0,4.1,CA,US,0,19,100-200,2+
+327,Office computer tower 16GB/512GB,"electronics,computer,desktop,office,ssd",899.0,7.5,CA,US,0,9,200+,2+
+495,Kids chemistry science kit,"toys,science,children,chemistry,educational",28.0,0.9,CA,US,0,5,25-50,0.5-1
+354,Cordless demolition hammer 20V,"tools,power_tool,hammer,demolition,cordless",229.0,3.6,CA,US,0,2,200+,2+
+184,Retro game console mini edition,"electronics,gaming,console,retro",59.0,0.35,CA,US,0,17,50-100,0.25-0.5
+35,15-inch work laptop 16GB RAM 512GB SSD,"electronics,computer,laptop,business,brand_generic",1299.0,1.9,CA,US,0,9,200+,1-2
+218,31-inch IPS office monitor,"electronics,monitor,display,31_inch",239.0,4.8,CA,US,0,19,200+,2+
+162,Women's cocktail dress size S,"apparel,dress,women,cocktail,clothing",85.0,0.38,CA,US,0,13,50-100,0.25-0.5
+346,Chocolate mint truffle box 150g,"food,chocolate,snack,truffle,mint",7.0,0.22,CA,US,0,10,0-25,0-0.25
+378,Chocolate almond clusters 180g,"food,chocolate,snack,almond",6.0,0.2,CA,US,0,10,0-25,0-0.25
+436,24-inch IPS home monitor,"electronics,monitor,display,24_inch",169.0,3.4,CA,US,0,19,100-200,2+
+109,Modern wooden nightstand,"furniture,nightstand,wood,home,bedroom",159.0,7.2,CA,US,0,8,100-200,2+
+440,Cordless sheet sander 18V,"tools,power_tool,sander,sheet,cordless",129.0,1.6,CA,US,0,2,100-200,1-2
+421,Wireless home speaker tower,"electronics,audio,speaker,tower,wireless",219.0,6.2,CA,US,0,1,200+,2+
+163,Expandable travel duffel bag,"bags,luggage,duffel,travel,expandable",49.0,0.7,CA,US,0,14,25-50,0.5-1
+183,Holiday themed postcard pack (12 pcs),"paper,card,postcard,holiday",11.0,0.12,CA,US,0,16,0-25,0-0.25
+113,Women's floral summer dress size XS,"apparel,dress,women,floral,summer",49.0,0.3,CA,US,0,13,25-50,0.25-0.5
+31,Women’s running shoes size 8,"apparel,shoes,sneakers,running,textile_upper,women",105.0,0.78,CA,US,0,4,100-200,0.5-1
+405,Kids wooden stacking rings,"toys,wooden,children,stacking,educational",16.0,0.5,CA,US,0,5,0-25,0.25-0.5
+392,Historical war novel 520 pages,"books,printed,paperback,reading,history",16.0,0.6,CA,US,0,6,0-25,0.5-1
+134,Vintage art postcards (12 pcs),"paper,card,postcard,vintage,art",12.0,0.1,CA,US,0,16,0-25,0-0.25
+379,Rechargeable floodlight,"electronics,battery,floodlight,rechargeable",32.0,0.3,CA,US,0,11,25-50,0.25-0.5
+52,Plastic food containers set (12 pcs),"kitchen,plastic,containers,storage",16.0,0.75,CA,US,0,15,0-25,0.5-1
+7,DeWalt 20V compact impact driver,"tools,power_tool,driver,cordless,brand_dewalt",229.0,1.6,CA,US,0,2,200+,1-2
+310,Milk chocolate squares box 150g,"food,chocolate,snack,box",5.0,0.14,CA,US,0,10,0-25,0-0.25
+13,Paperback fiction novel 300 pages,"books,printed,paperback,reading,english",16.0,0.45,CA,US,0,6,0-25,0.25-0.5
+1,Apple iPhone 14 128GB smartphone,"electronics,phone,smartphone,cellular,touchscreen,brand_apple",999.0,0.4,CA,US,0,0,200+,0.25-0.5
+23,Make-up kit with brushes,"cosmetics,makeup,kit,brushes,beauty",35.0,0.4,CA,US,1,7,25-50,0.25-0.5
+243,Aloe soothing face cream 80ml,"cosmetics,skincare,cream,face,soothing",18.0,0.2,CA,US,0,7,0-25,0-0.25
+42,Women's fashion sneakers size 7,"footwear,shoes,sneakers,fashion,women",79.0,0.7,CA,US,0,4,50-100,0.5-1
+221,Premium Bluetooth bookshelf speakers,"electronics,audio,speaker,bookshelf,premium",169.0,4.1,CA,US,0,1,100-200,2+
+395,Office desktop PC 32GB/1TB SSD,"electronics,computer,desktop,office,ssd",1299.0,7.9,CA,US,0,9,200+,2+
+374,Adventure fantasy book 360 pages,"books,printed,paperback,reading,fantasy",13.0,0.45,CA,US,0,6,0-25,0.25-0.5
+401,Men's graphic T-shirt size L,"apparel,shirt,tshirt,graphic,men,clothing",21.0,0.26,CA,US,0,3,0-25,0.25-0.5
+467,Wheeled travel case 27 inch,"bags,luggage,travel,suitcase,wheeled",159.0,4.1,CA,US,0,14,100-200,2+
+398,Women's satin wrap dress size S,"apparel,dress,women,satin,wrap",85.0,0.32,CA,US,0,13,50-100,0.25-0.5
+119,34-inch ultrawide monitor,"electronics,monitor,display,34_inch",429.0,8.1,CA,US,0,19,200+,2+
+32,Fantasy novel box set 3 volumes,"books,printed,paperback,reading,english,fantasy",42.0,1.1,CA,US,0,6,25-50,1-2
+283,Minimalist postcard set (8 pcs),"paper,card,postcard,minimalist",9.0,0.06,CA,US,0,16,0-25,0-0.25
+366,Gaming system 1TB performance edition,"electronics,gaming,console,performance",479.0,1.85,CA,US,0,17,200+,1-2
+388,Women's soft-knit sweater size L,"apparel,sweater,knit,women,clothing",44.0,0.62,CA,US,0,3,25-50,0.5-1
+258,Wooden home office bookshelf,"furniture,bookshelf,wood,home,office",199.0,15.8,CA,US,0,8,100-200,2+
+158,Wooden storage bench,"furniture,bench,wood,home,entryway",199.0,14.5,CA,US,0,8,100-200,2+
+420,Women's ribbed sweater size L,"apparel,sweater,ribbed,women,clothing",39.0,0.58,CA,US,0,3,25-50,0.5-1
+133,Plastic mixing bowl set (6 pcs),"kitchen,plastic,bowl,food_prep",14.0,0.55,CA,US,0,15,0-25,0.5-1
+453,Retro CD/radio boombox,"electronics,audio,player,cd,radio,boombox",54.0,1.2,CA,US,0,18,50-100,1-2
+370,Women's athletic tank size S,"apparel,tank_top,athletic,women,clothing",18.0,0.2,CA,US,0,3,0-25,0-0.25
+24,Children’s puzzle (500 pieces),"toys,puzzle,board,children,educational",14.0,0.55,CA,US,0,5,0-25,0.5-1
+182,Plastic shoe storage boxes (4 pack),"kitchen,plastic,storage,shoe_box",22.0,1.2,CA,US,0,15,0-25,1-2
+422,Cordless palm sander 20V,"tools,power_tool,sander,palm,cordless",119.0,1.65,CA,US,0,2,100-200,1-2
+272,Cordless compact drill 12V,"tools,power_tool,drill,cordless,compact",99.0,1.25,CA,US,0,2,50-100,1-2
+368,29-inch business monitor,"electronics,monitor,display,29_inch",219.0,4.3,CA,US,0,19,200+,2+
+67,Hard shell carry-on suitcase 20 inch,"bags,luggage,travel,suitcase,carry_on",119.0,2.9,CA,US,0,14,100-200,2+
+54,Portable handheld gaming console 128GB,"electronics,gaming,console,portable",229.0,0.65,CA,US,0,17,200+,0.5-1
+191,Kids alphabet learning kit,"toys,learning,children,alphabet,educational",16.0,0.4,CA,US,0,5,0-25,0.25-0.5
+22,Gaming mechanical keyboard,"electronics,computer,keyboard,peripheral,gaming",139.0,0.9,CA,US,0,9,100-200,0.5-1
+58,Men's running shorts size M,"apparel,shorts,running,men,clothing",22.0,0.22,CA,US,0,3,0-25,0-0.25
+363,Wheeled carry-on travel case 19 inch,"bags,luggage,travel,suitcase,carry_on",119.0,2.8,CA,US,0,14,100-200,2+
+219,Men's long-sleeve running top size M,"apparel,shirt,running,men,clothing",29.0,0.28,CA,US,0,3,25-50,0.25-0.5
+151,Men's slim-fit jeans size 32,"apparel,jeans,denim,men,clothing",44.0,0.7,CA,US,0,3,25-50,0.5-1
+38,Bluetooth bookshelf speakers (pair),"electronics,audio,speaker,bookshelf,brand_generic",115.0,3.2,CA,US,0,1,100-200,2+
+210,Milk chocolate caramel bar 90g,"food,chocolate,snack,caramel",3.0,0.12,CA,US,0,10,0-25,0-0.25
+305,Kids wooden math learning set,"toys,learning,children,wooden,educational",21.0,0.85,CA,US,0,5,0-25,0.5-1
+226,Wooden double dresser,"furniture,dresser,wood,home,bedroom",289.0,22.4,CA,US,0,8,200+,2+
+263,Medium travel backpack 28L,"bags,luggage,travel,backpack,medium",42.0,0.7,CA,US,0,14,25-50,0.5-1
+257,Vitamin C brightening serum 50ml,"cosmetics,skincare,serum,brightening,face",23.0,0.16,CA,US,0,7,0-25,0-0.25
+471,Portable CD/radio sound system,"electronics,audio,player,cd,radio",59.0,1.1,CA,US,0,18,50-100,1-2
+470,Retro game console classic edition,"electronics,gaming,console,retro",69.0,0.45,CA,US,0,17,50-100,0.25-0.5
+313,Expandable cabin suitcase 20 inch,"bags,luggage,travel,suitcase,carry_on",109.0,2.6,CA,US,0,14,100-200,2+
+496,Modern philosophy paperback 300 pages,"books,printed,paperback,reading,philosophy",13.0,0.4,CA,US,0,6,0-25,0.25-0.5
+248,Women's embroidered dress size S,"apparel,dress,women,embroidered",88.0,0.34,CA,US,0,13,50-100,0.25-0.5
+338,Women's denim shorts size L,"apparel,shorts,denim,women,clothing",27.0,0.35,CA,US,0,3,25-50,0.25-0.5
+165,Vintage photo postcard bundle (30 pcs),"paper,card,postcard,vintage,photo",17.0,0.2,CA,US,0,16,0-25,0-0.25
+457,Wireless subwoofer system,"electronics,audio,subwoofer,wireless",189.0,4.0,CA,US,0,1,100-200,2+
+287,Men's lightweight hoodie size M,"apparel,hoodie,lightweight,men,clothing",32.0,0.48,CA,US,0,3,25-50,0.25-0.5
+75,Wireless gaming headset,"electronics,audio,headset,gaming,wireless",79.0,0.45,CA,US,0,1,50-100,0.25-0.5
+55,Portable CD music player,"electronics,audio,cd_player,music,portable",49.0,0.85,CA,US,0,18,25-50,0.5-1
+489,Portable CD/radio music box,"electronics,audio,player,cd,radio",52.0,1.08,CA,US,0,18,50-100,1-2
+106,Kids art coloring set (120 pcs),"toys,art,children,coloring,educational",22.0,0.75,CA,US,0,5,0-25,0.5-1
+125,Classic literature novel 500 pages,"books,printed,paperback,reading,literature",17.0,0.55,CA,US,0,6,0-25,0.5-1
+121,Women's puffer jacket size M,"apparel,jacket,puffer,women,clothing",89.0,1.3,CA,US,0,3,50-100,1-2
+308,Wooden mid-century TV cabinet,"furniture,cabinet,wood,home,living_room",279.0,17.2,CA,US,0,8,200+,2+
+246,Chocolate chip cookie bites 120g,"food,chocolate,snack,cookie",4.0,0.2,CA,US,0,10,0-25,0-0.25
+103,Women's cotton sweater size S,"apparel,sweater,cotton,women,clothing",39.0,0.6,CA,US,0,3,25-50,0.5-1
+396,Chocolate coconut bar 100g,"food,chocolate,snack,coconut",3.0,0.1,CA,US,0,10,0-25,0-0.25
+124,Kids wooden puzzle animals,"toys,puzzle,children,wooden,educational",19.0,0.42,CA,US,0,5,0-25,0.25-0.5
+187,Men's casual button-up shirt size M,"apparel,shirt,button_up,men,clothing",33.0,0.38,CA,US,0,3,25-50,0.25-0.5
+172,Cordless leaf blower 20V,"tools,power_tool,blower,cordless",169.0,2.6,CA,US,0,2,100-200,2+
+474,Women's wool scarf,"apparel,scarf,wool,women,clothing",28.0,0.2,CA,US,0,3,25-50,0-0.25
+189,Bluetooth portable radio speaker,"electronics,audio,speaker,radio,wireless",59.0,0.6,CA,US,0,1,50-100,0.5-1
+108,Vitamin E moisturizing cream 100ml,"cosmetics,skincare,cream,moisturizer,vitamin_e",18.0,0.2,CA,US,0,7,0-25,0-0.25
+26,Family board game for 4 players,"toys,board_game,family,children,educational",32.0,1.2,CA,US,0,5,25-50,1-2
+300,Plastic storage tubs (2 pack),"kitchen,plastic,storage,tub",12.0,0.85,CA,US,0,15,0-25,0.5-1
+289,Wireless studio monitor speaker,"electronics,audio,speaker,studio,wireless",189.0,3.1,CA,US,0,1,100-200,2+
+180,Women's maxi dress size M,"apparel,dress,women,maxi,clothing",72.0,0.36,CA,US,0,13,50-100,0.25-0.5
+45,SPF30 face sunscreen 120ml,"cosmetics,skincare,sunscreen,lotion,spf30",18.0,0.2,CA,US,0,7,0-25,0-0.25
+70,Gaming console 256GB,"electronics,gaming,console,brand_generic",299.0,0.85,CA,US,0,17,200+,0.5-1
+356,Contemporary poetry book 180 pages,"books,printed,paperback,reading,poetry",9.0,0.28,CA,US,0,6,0-25,0.25-0.5
+400,Plastic storage basket,"kitchen,plastic,basket,storage",9.0,0.38,CA,US,0,15,0-25,0.25-0.5
+446,Chocolate peanut crunch bar,"food,chocolate,snack,peanut",3.0,0.12,CA,US,0,10,0-25,0-0.25
+235,Portable cassette player,"electronics,audio,player,cassette",49.0,0.85,CA,US,0,18,25-50,0.5-1
+94,Cordless jigsaw cutting tool,"tools,power_tool,jigsaw,cordless",149.0,2.25,CA,US,0,2,100-200,2+
+449,Medium hard-shell suitcase 25 inch,"bags,luggage,travel,suitcase,medium",149.0,3.6,CA,US,0,14,100-200,2+
+185,MP3 music player 64GB,"electronics,audio,player,mp3,portable",54.0,0.2,CA,US,0,18,50-100,0-0.25
+8,Men's cotton T-shirt size L,"apparel,shirt,tshirt,cotton,men,clothing",20.0,0.2,CA,US,1,3,0-25,0-0.25
+84,Women's long-sleeve maxi dress size S,"apparel,dress,women,long_sleeve,maxi",69.0,0.42,CA,US,0,13,50-100,0.25-0.5
+175,SPF20 daily face moisturizer 50ml,"cosmetics,skincare,moisturizer,face,spf20",19.0,0.14,CA,US,0,7,0-25,0-0.25
+250,Plastic colander strainer (2 pcs),"kitchen,plastic,strainer,colander",9.0,0.4,CA,US,0,15,0-25,0.25-0.5
+91,Men's winter coat size XL,"apparel,coat,winter,men,clothing",129.0,1.6,CA,US,0,3,100-200,1-2
+451,Minimalist black-and-white postcards,"paper,card,postcard,minimalist",9.0,0.08,CA,US,0,16,0-25,0-0.25
+105,Cordless multi-tool 18V,"tools,power_tool,multi_tool,cordless",149.0,1.95,CA,US,0,2,100-200,1-2
+404,Cordless angle drill 18V,"tools,power_tool,drill,angle,cordless",159.0,1.85,CA,US,0,2,100-200,1-2
+88,Gaming console bundle 512GB,"electronics,gaming,console,bundle",349.0,1.2,CA,US,0,17,200+,1-2
+6,Bosch 18V cordless drill kit,"tools,power_tool,drill,cordless,brand_bosch",199.0,2.0,CA,US,0,2,100-200,1-2
+201,Men's cotton shorts size L,"apparel,shorts,cotton,men,clothing",21.0,0.28,CA,US,0,3,0-25,0.25-0.5
+228,Chocolate hazelnut wafer pack 150g,"food,chocolate,snack,hazelnut",4.0,0.16,CA,US,0,10,0-25,0-0.25
+19,Apple iPad 10.2-inch 64GB,"electronics,computer,tablet,brand_apple,ipad",429.0,0.5,CA,US,0,9,200+,0.25-0.5
+17,Wooden dining table (4-seater),"furniture,table,wood,home,dining",299.0,18.0,CA,US,0,8,200+,2+
+179,Rechargeable tactical flashlight,"electronics,battery,flashlight,tactical,rechargeable",29.0,0.22,CA,US,0,11,25-50,0-0.25
+253,Bluetooth surround sound speaker,"electronics,audio,speaker,surround,wireless",159.0,2.8,CA,US,0,1,100-200,2+
+431,Large 28 inch rolling suitcase,"bags,luggage,travel,suitcase,large",179.0,4.6,CA,US,0,14,100-200,2+
+173,Kids space explorer kit,"toys,science,children,educational,space",24.0,0.65,CA,US,0,5,0-25,0.5-1
+216,Next-gen gaming console 2TB,"electronics,gaming,console,4k",499.0,1.9,CA,US,0,17,200+,1-2
+297,Rechargeable LED work torch,"electronics,battery,light,work,rechargeable",26.0,0.25,CA,US,0,11,25-50,0-0.25
+433,Vintage travel postcards (14 pcs),"paper,card,postcard,vintage",12.0,0.12,CA,US,0,16,0-25,0-0.25
+330,Women's sequin party dress size M,"apparel,dress,women,sequin,party",102.0,0.42,CA,US,0,13,100-200,0.25-0.5
+2,Samsung Galaxy S21 Ultra 5G,"electronics,phone,smartphone,cellular,android,brand_samsung",1199.0,0.45,CA,US,0,0,200+,0.25-0.5
+194,Wooden media console cabinet,"furniture,cabinet,wood,home,living_room",229.0,18.4,CA,US,0,8,200+,2+
+269,Men's fleece jacket size XL,"apparel,jacket,fleece,men,clothing",44.0,0.75,CA,US,0,3,25-50,0.5-1
+296,Chocolate hazelnut bar 100g,"food,chocolate,snack,hazelnut",3.0,0.1,CA,US,0,10,0-25,0-0.25
+413,Lightweight carry-on 21 inch,"bags,luggage,travel,suitcase,carry_on",109.0,2.7,CA,US,0,14,100-200,2+
+393,Collagen face cream 80ml,"cosmetics,skincare,cream,collagen,face",19.0,0.22,CA,US,0,7,0-25,0-0.25
+140,Bluetooth desktop speakers,"electronics,audio,speaker,desktop",69.0,1.5,CA,US,0,1,50-100,1-2
+419,Men's cotton joggers size L,"apparel,pants,joggers,men,clothing",29.0,0.5,CA,US,0,3,25-50,0.25-0.5
+265,Retro postcard assortment (10 pcs),"paper,card,postcard,retro",9.0,0.08,CA,US,0,16,0-25,0-0.25
+229,Rechargeable emergency worklight,"electronics,battery,light,work,rechargeable",39.0,0.28,CA,US,0,11,25-50,0.25-0.5
+303,Wireless bookshelf stereo speakers,"electronics,audio,speaker,stereo,wireless",149.0,3.6,CA,US,0,1,100-200,2+
+118,Portable CD boombox,"electronics,audio,player,cd,boombox",59.0,1.4,CA,US,0,18,50-100,1-2
+174,Young adult fantasy novel 420 pages,"books,printed,paperback,reading,fantasy",14.0,0.48,CA,US,0,6,0-25,0.25-0.5
+202,Women's cropped hoodie size S,"apparel,hoodie,cropped,women,clothing",34.0,0.48,CA,US,0,3,25-50,0.25-0.5
+501,Matte lipstick for makeup,"cosmetics,makeup,lipstick,beauty",25.0,0.05,CA,US,0,7,0-25,0-0.25
+268,21-inch thin bezel monitor,"electronics,monitor,display,21_inch",129.0,2.9,CA,US,0,19,100-200,2+
+129,Mixed chocolate truffle selection,"food,chocolate,truffle,snack,gift_item",21.0,0.38,CA,US,1,10,0-25,0.25-0.5
+117,Game console digital edition 1TB,"electronics,gaming,console,digital",399.0,1.65,CA,US,0,17,200+,1-2
+69,Holiday greeting cards (15 pcs),"paper,card,postcard,holiday",13.0,0.18,CA,US,0,16,0-25,0-0.25
+359,Office PC tower 16GB RAM,"electronics,computer,desktop,office,ssd",899.0,7.1,CA,US,0,9,200+,2+
+207,Tea tree face toner 200ml,"cosmetics,skincare,toner,face,tea_tree",15.0,0.22,CA,US,0,7,0-25,0-0.25
+50,Women's casual dress size S,"apparel,dress,women,casual,clothing",42.0,0.28,CA,US,0,13,25-50,0.25-0.5
+160,Dark chocolate almond bar 120g,"food,chocolate,snack,almond",4.0,0.14,CA,US,0,10,0-25,0-0.25
+176,Wooden kitchen bar stool,"furniture,stool,wood,home,kitchen",89.0,7.4,CA,US,0,8,50-100,2+
+491,Men's slim-fit hoodie size M,"apparel,hoodie,slimfit,men,clothing",34.0,0.58,CA,US,0,3,25-50,0.5-1
+61,Aloe vera body lotion 250ml,"cosmetics,skincare,lotion,body,aloe_vera",14.0,0.28,CA,US,0,7,0-25,0.25-0.5
+406,Fantasy adventure novel 480 pages,"books,printed,paperback,reading,fantasy",14.0,0.48,CA,US,0,6,0-25,0.25-0.5
+273,Kids puzzle map of world (200 pcs),"toys,puzzle,children,educational,map",19.0,0.6,CA,US,0,5,0-25,0.5-1
+224,Modern poetry collection 280 pages,"books,printed,paperback,reading,poetry",12.0,0.3,CA,US,0,6,0-25,0.25-0.5
+27,Refurbished Apple iPhone 13 128GB,"electronics,phone,smartphone,cellular,refurbished,brand_apple",799.0,0.38,CA,US,0,0,200+,0.25-0.5
+81,Office laptop 8GB/512GB SSD,"electronics,computer,laptop,office,ssd,brand_hp",849.0,1.75,CA,US,0,9,200+,1-2
+164,Plastic tool organizer (12 slots),"kitchen,plastic,organizer,storage",13.0,0.85,CA,US,0,15,0-25,0.5-1
+242,Horror fiction novel 350 pages,"books,printed,paperback,reading,horror",13.0,0.5,CA,US,0,6,0-25,0.25-0.5
+438,Women's jean skirt size S,"apparel,skirt,denim,women,clothing",29.0,0.4,CA,US,0,3,25-50,0.25-0.5
+325,Lavender night cream 60ml,"cosmetics,skincare,cream,lavender,face",18.0,0.16,CA,US,0,7,0-25,0-0.25
+40,Women's fleece hoodie size M,"apparel,hoodie,fleece,women,clothing",32.0,0.5,CA,US,0,3,25-50,0.25-0.5
+209,Business laptop 8GB/1TB HDD,"electronics,computer,laptop,office,hdd",599.0,1.9,CA,US,0,9,200+,1-2
+130,Rechargeable camping lantern,"electronics,battery,lantern,camping,rechargeable",34.0,0.35,CA,US,0,11,25-50,0.25-0.5
+326,Wooden dining room chair,"furniture,chair,wood,home,dining",79.0,6.7,CA,US,0,8,50-100,2+
+342,Modern fiction novel 270 pages,"books,printed,paperback,reading,fiction",10.0,0.32,CA,US,0,6,0-25,0.25-0.5
+348,Women's tiered maxi dress size L,"apparel,dress,women,maxi,tiered",78.0,0.38,CA,US,0,13,50-100,0.25-0.5
+277,Mid-range workstation desktop,"electronics,computer,desktop,workstation,ssd",1199.0,7.9,CA,US,0,9,200+,2+
+214,Plastic water pitcher (2L),"kitchen,plastic,pitcher,water",9.0,0.45,CA,US,0,15,0-25,0.25-0.5
+25,Large teddy bear gift 60cm,"toys,plush,teddy,children,gift_item",39.0,0.9,CA,US,1,5,25-50,0.5-1
+336,24-inch thin frame monitor,"electronics,monitor,display,24_inch",159.0,3.2,CA,US,0,19,100-200,2+
+309,Pro gaming desktop PC 32GB/1TB,"electronics,computer,desktop,gaming,ssd",1899.0,9.4,CA,US,0,9,200+,2+
+459,Kids sensory fidget toy set,"toys,sensory,children,fidget,educational",14.0,0.34,CA,US,0,5,0-25,0.25-0.5
+345,Performance office PC 32GB/1TB,"electronics,computer,desktop,office,ssd",1299.0,8.1,CA,US,0,9,200+,2+
+249,Travel cart suitcase 34 inch,"bags,luggage,travel,suitcase,large",199.0,5.1,CA,US,0,14,100-200,2+
+145,Rustic wooden coffee table,"furniture,table,wood,coffee,home",189.0,11.6,CA,US,0,8,100-200,2+
+337,Men's basic crewneck tee size M,"apparel,shirt,tshirt,men,clothing",18.0,0.22,CA,US,0,3,0-25,0-0.25
+334,Retro TV-style gaming console,"electronics,gaming,console,retro",69.0,0.55,CA,US,0,17,50-100,0.5-1
+460,Historical fiction biography 410 pages,"books,printed,paperback,reading,history",15.0,0.56,CA,US,0,6,0-25,0.5-1
+141,Cordless angle grinder 18V,"tools,power_tool,grinder,cordless",159.0,2.45,CA,US,0,2,100-200,2+
+220,Women's fleece-lined leggings size M,"apparel,leggings,fleece,women,clothing",34.0,0.35,CA,US,0,3,25-50,0.25-0.5
+299,Large travel suitcase 32 inch,"bags,luggage,travel,suitcase,large",189.0,4.9,CA,US,0,14,100-200,2+
+490,34-inch immersive monitor,"electronics,monitor,display,34_inch",399.0,7.5,CA,US,0,19,200+,2+
+315,Coastal theme postcard set (10 pcs),"paper,card,postcard,coastal",8.0,0.08,CA,US,0,16,0-25,0-0.25
+469,Animal illustration postcards (15 pcs),"paper,card,postcard,illustration",12.0,0.11,CA,US,0,16,0-25,0-0.25
+307,Cucumber hydrating toner 150ml,"cosmetics,skincare,toner,hydrating,face",14.0,0.16,CA,US,0,7,0-25,0-0.25
+139,Women's yoga pants size S,"apparel,pants,yoga,women,clothing",27.0,0.32,CA,US,0,3,25-50,0.25-0.5
+127,Wooden office filing cabinet,"furniture,cabinet,office,wood,home",189.0,18.2,CA,US,0,8,100-200,2+
+480,Wooden modern coffee table,"furniture,table,wood,living_room,home",169.0,11.9,CA,US,0,8,100-200,2+
+390,Cordless wet/dry shop vac,"tools,power_tool,vacuum,shop,cordless",189.0,3.8,CA,US,0,2,100-200,2+
+203,Wireless bookshelf audio system,"electronics,audio,speaker,bookshelf,wireless",129.0,3.7,CA,US,0,1,100-200,2+
+409,Student notebook laptop 8GB/256GB,"electronics,computer,laptop,student,ssd",649.0,1.55,CA,US,0,9,200+,1-2
+83,USB rechargeable lantern,"electronics,battery,lantern,rechargeable",24.0,0.3,CA,US,0,11,0-25,0.25-0.5
+123,Cordless reciprocating saw 20V,"tools,power_tool,saw,reciprocating,cordless",179.0,2.9,CA,US,0,2,100-200,2+
+234,Portable gaming console 512GB,"electronics,gaming,console,portable",339.0,0.75,CA,US,0,17,200+,0.5-1
+16,SPF50 sunscreen lotion 100ml,"cosmetics,skincare,sunscreen,lotion,spf50",18.0,0.15,CA,US,1,7,0-25,0-0.25
+98,Wooden office desk,"furniture,desk,wood,office,home",199.0,15.8,CA,US,0,8,100-200,2+
+87,Vintage postcard pack (20 pcs),"paper,card,postcard,vintage",14.0,0.15,CA,US,0,16,0-25,0-0.25
+225,SPF15 hydrating lip balm,"cosmetics,skincare,balm,lip,spf15",8.0,0.05,CA,US,0,7,0-25,0-0.25
+344,Wooden sideboard cabinet,"furniture,cabinet,wood,home,dining",249.0,18.3,CA,US,0,8,200+,2+
+403,Wireless compact bookshelf speakers,"electronics,audio,speaker,bookshelf,wireless",129.0,3.1,CA,US,0,1,100-200,2+
+275,Chamomile face lotion 120ml,"cosmetics,skincare,lotion,face,calming",14.0,0.18,CA,US,0,7,0-25,0-0.25
+65,Rechargeable AAA battery pack (4 pcs),"electronics,battery,rechargeable,aaa_cell",18.0,0.12,CA,US,0,11,0-25,0-0.25
+288,Women's bootcut jeans size 28,"apparel,jeans,bootcut,women,clothing",39.0,0.75,CA,US,0,3,25-50,0.5-1
+93,Bluetooth bookshelf stereo system,"electronics,audio,speaker,stereo",139.0,3.8,CA,US,0,1,100-200,2+
+181,Hard shell carry-on case 22 inch,"bags,luggage,travel,carry_on,suitcase",129.0,3.1,CA,US,0,14,100-200,2+
+157,Hyaluronic acid serum 50ml,"cosmetics,skincare,serum,hydrating,face",21.0,0.15,CA,US,0,7,0-25,0-0.25
+267,Portable radio CD player,"electronics,audio,player,cd,radio",58.0,1.05,CA,US,0,18,50-100,1-2
+482,Milk chocolate cookies 180g,"food,chocolate,snack,cookie",5.0,0.2,CA,US,0,10,0-25,0-0.25
+233,Art-themed postcard set (16 pcs),"paper,card,postcard,art",14.0,0.12,CA,US,0,16,0-25,0-0.25
+488,HD gaming console 1TB,"electronics,gaming,console,hd",369.0,1.7,CA,US,0,17,200+,1-2
+424,Classic romance book 300 pages,"books,printed,paperback,reading,romance",10.0,0.34,CA,US,0,6,0-25,0.25-0.5
+14,Hardcover cookbook 200 pages,"books,printed,hardcover,cooking,recipes",28.0,0.9,CA,US,0,6,25-50,0.5-1
+66,Women's evening dress size L,"apparel,dress,women,evening,clothing",79.0,0.38,CA,US,0,13,50-100,0.25-0.5
+357,AHA exfoliating face serum 30ml,"cosmetics,skincare,serum,exfoliating,face",21.0,0.15,CA,US,0,7,0-25,0-0.25
+244,Wooden dining bench,"furniture,bench,wood,home,dining",169.0,12.4,CA,US,0,8,100-200,2+
+146,Business desktop PC 16GB/512GB,"electronics,computer,desktop,office,ssd",999.0,7.1,CA,US,0,9,200+,2+
+39,Cordless circular saw 18V,"tools,power_tool,saw,cordless,brand_bosch",189.0,3.1,CA,US,0,2,100-200,2+
+499,Business desktop PC 8GB/512GB,"electronics,computer,desktop,office,ssd",749.0,6.4,CA,US,0,9,200+,2+
+441,Kids magnetic tiles building set,"toys,tiles,children,magnetic,educational",32.0,0.92,CA,US,0,5,25-50,0.5-1
+418,27-inch QHD office monitor,"electronics,monitor,display,27_inch",299.0,5.4,CA,US,0,19,200+,2+
+473,Men's crewneck sweatshirt size L,"apparel,sweatshirt,crewneck,men,clothing",34.0,0.6,CA,US,0,3,25-50,0.5-1
+135,Retro gaming handheld console,"electronics,gaming,console,handheld",89.0,0.42,CA,US,0,17,50-100,0.25-0.5
+86,Plastic outdoor chairs (set of 2),"kitchen,plastic,outdoor,chairs,patio",45.0,3.4,CA,US,0,15,25-50,2+
+251,Men's cotton tank top size L,"apparel,tank_top,cotton,men,clothing",17.0,0.2,CA,US,0,3,0-25,0-0.25
+112,LED rechargeable work light,"electronics,battery,work_light,rechargeable",29.0,0.38,CA,US,0,11,25-50,0.25-0.5
+100,Chocolate assortment gift tin 30 pieces,"food,chocolate,snack,gift_item",25.0,0.6,CA,US,1,10,0-25,0.5-1
+78,Mystery thriller novel 420 pages,"books,printed,paperback,reading,thriller",14.0,0.48,CA,US,0,6,0-25,0.25-0.5
+167,Portable CD stereo system,"electronics,audio,player,cd,stereo",64.0,1.6,CA,US,0,18,50-100,1-2
+339,Wireless bookshelf woofer speaker,"electronics,audio,speaker,woofer,wireless",159.0,3.4,CA,US,0,1,100-200,2+
+33,Vitamin C face serum 30ml,"cosmetics,skincare,serum,face,vitamin_c",27.0,0.12,CA,US,0,7,25-50,0-0.25
+332,Plastic refrigerator organizers (4 pcs),"kitchen,plastic,storage,fridge",18.0,0.95,CA,US,0,15,0-25,0.5-1
+286,28-inch LED gaming monitor,"electronics,monitor,display,28_inch",269.0,4.4,CA,US,0,19,200+,2+
+274,Science fiction anthology 500 pages,"books,printed,paperback,reading,scifi",16.0,0.55,CA,US,0,6,0-25,0.5-1
+168,23-inch LED desktop monitor,"electronics,monitor,display,23_inch",149.0,3.1,CA,US,0,19,100-200,2+
+352,Women's loose-fit lounge pants size M,"apparel,pants,lounge,women,clothing",29.0,0.42,CA,US,0,3,25-50,0.25-0.5
+367,Portable CD MP3 boombox,"electronics,audio,player,cd,mp3",64.0,1.25,CA,US,0,18,50-100,1-2
+111,Milk chocolate gift assortment 18 pieces,"food,chocolate,snack,gift_item",17.0,0.32,CA,US,1,10,0-25,0.25-0.5
+387,Men's casual chinos size 34,"apparel,pants,chinos,men,clothing",32.0,0.55,CA,US,0,3,25-50,0.5-1
+148,Rechargeable lithium AA pack (8 pcs),"electronics,battery,rechargeable,aa_cell",28.0,0.24,CA,US,0,11,25-50,0-0.25
+285,Portable CD media player,"electronics,audio,player,cd,portable",44.0,0.95,CA,US,0,18,25-50,0.5-1
+486,Plastic freezer containers (3 pcs),"kitchen,plastic,container,freezer",14.0,0.88,CA,US,0,15,0-25,0.5-1
+239,Bluetooth minimalist speaker,"electronics,audio,speaker,compact,wireless",54.0,0.55,CA,US,0,1,50-100,0.5-1
+101,USB-C fast wall charger 30W,"electronics,computer,charger,usb_c,accessory",19.0,0.12,CA,US,0,9,0-25,0-0.25
+349,Hard shell carry-on 19 inch,"bags,luggage,travel,suitcase,carry_on",109.0,2.55,CA,US,0,14,100-200,2+
+270,Women's yoga shorts size S,"apparel,shorts,yoga,women,clothing",21.0,0.22,CA,US,0,3,0-25,0-0.25
+120,Men's wool coat size M,"apparel,coat,wool,men,clothing",119.0,1.55,CA,US,0,3,100-200,1-2
+264,Plastic serving tray (2 pcs),"kitchen,plastic,tray,serving",10.0,0.55,CA,US,0,15,0-25,0.5-1
+271,Wireless compact speaker,"electronics,audio,speaker,compact,wireless",49.0,0.5,CA,US,0,1,25-50,0.25-0.5
+128,High-end workstation laptop 32GB/1TB,"electronics,computer,laptop,workstation,ssd",2499.0,2.8,CA,US,0,9,200+,2+
+383,Vintage architecture postcards (12 pcs),"paper,card,postcard,architecture",11.0,0.1,CA,US,0,16,0-25,0-0.25
+154,Cordless orbital sander 20V,"tools,power_tool,sander,cordless",139.0,1.85,CA,US,0,2,100-200,1-2
+483,Rechargeable LED shop light,"electronics,battery,light,shop,rechargeable",29.0,0.28,CA,US,0,11,25-50,0.25-0.5
+177,Home office desktop PC 8GB/256GB,"electronics,computer,desktop,office,ssd",699.0,6.2,CA,US,0,9,200+,2+
+343,Vitamin E night serum 40ml,"cosmetics,skincare,serum,vitamin_e,face",20.0,0.13,CA,US,0,7,0-25,0-0.25
+416,Digital gaming console 1TB,"electronics,gaming,console,digital",399.0,1.6,CA,US,0,17,200+,1-2
+316,All-digital gaming console 512GB,"electronics,gaming,console,digital",329.0,0.95,CA,US,0,17,200+,0.5-1
+254,Cordless oscillating tool 18V,"tools,power_tool,oscillating,cordless",129.0,1.6,CA,US,0,2,100-200,1-2
+391,Kids robotic-building starter kit,"toys,robotics,children,educational,stem",39.0,1.4,CA,US,0,5,25-50,1-2
+444,Wooden office desk with drawers,"furniture,desk,wood,office,home",219.0,16.8,CA,US,0,8,200+,2+
+197,Rechargeable camping headlamp,"electronics,battery,headlamp,rechargeable",24.0,0.12,CA,US,0,11,0-25,0-0.25
+227,Office productivity laptop 12GB/512GB,"electronics,computer,laptop,office,ssd",949.0,1.85,CA,US,0,9,200+,1-2
+294,Wooden living room end table,"furniture,table,wood,living_room,home",149.0,9.9,CA,US,0,8,100-200,2+
+380,Women's embroidered maxi dress size M,"apparel,dress,women,embroidered,maxi",92.0,0.38,CA,US,0,13,50-100,0.25-0.5
+51,Travel backpack 35L,"bags,luggage,travel,backpack,outdoor",69.0,0.9,CA,US,0,14,50-100,0.5-1
+360,Assorted chocolate pralines 20 pcs,"food,chocolate,snack,praline",14.0,0.32,CA,US,0,10,0-25,0.25-0.5
+320,Women's jogger sweatpants size S,"apparel,pants,joggers,women,clothing",29.0,0.46,CA,US,0,3,25-50,0.25-0.5
+206,Classic fantasy novel 600 pages,"books,printed,paperback,reading,fantasy",16.0,0.58,CA,US,0,6,0-25,0.5-1
+63,Gaming mouse RGB,"electronics,computer,peripheral,mouse,gaming",39.0,0.22,CA,US,0,9,25-50,0-0.25
+255,Kids paint and craft kit (150 pcs),"toys,craft,children,art,educational",26.0,0.85,CA,US,0,5,25-50,0.5-1
+107,Historical fiction novel 360 pages,"books,printed,paperback,reading,history",14.0,0.45,CA,US,0,6,0-25,0.25-0.5
+487,City sketch postcard set (10 pcs),"paper,card,postcard,sketch",9.0,0.07,CA,US,0,16,0-25,0-0.25
+291,Kids dinosaur activity kit,"toys,activity,children,dinosaur,educational",17.0,0.55,CA,US,0,5,0-25,0.5-1
+213,Travel duffel bag with wheels,"bags,luggage,duffel,travel,wheeled",89.0,2.4,CA,US,0,14,50-100,2+
+423,Kids astronomy science kit,"toys,science,children,astronomy,educational",22.0,0.7,CA,US,0,5,0-25,0.5-1
+64,Mixed chocolate truffles 20 pieces,"food,chocolate,truffle,gift_item",22.0,0.4,CA,US,1,10,0-25,0.25-0.5
+476,Cordless precision screwdriver set,"tools,power_tool,screwdriver,cordless",89.0,0.95,CA,US,0,2,50-100,0.5-1
+411,Rechargeable magnetic work light,"electronics,battery,light,work,magnetic",24.0,0.22,CA,US,0,11,0-25,0-0.25
+312,Women's shimmer evening dress size L,"apparel,dress,women,evening,shimmer",99.0,0.4,CA,US,0,13,50-100,0.25-0.5
+43,Kids building bricks set 300 pcs,"toys,blocks,plastic,construction,children",25.0,1.3,CA,US,0,5,0-25,1-2
+122,Stereo bookshelf speaker pair,"electronics,audio,speaker,bookshelf",129.0,3.5,CA,US,0,1,100-200,2+
+137,29-inch LED office monitor,"electronics,monitor,display,29_inch",229.0,4.6,CA,US,0,19,200+,2+
+340,Cordless belt sander 18V,"tools,power_tool,sander,belt,cordless",179.0,2.85,CA,US,0,2,100-200,2+
+290,Cordless rotary tool kit,"tools,power_tool,rotary,cordless",119.0,1.4,CA,US,0,2,100-200,1-2
+62,Wooden bedside table,"furniture,table,wood,bedroom,home",129.0,8.4,CA,US,0,8,100-200,2+
+74,Women's cotton leggings size M,"apparel,leggings,cotton,women,clothing",22.0,0.25,CA,US,0,3,0-25,0-0.25
+231,Expandable wheeled suitcase 26 inch,"bags,luggage,travel,suitcase,expandable",149.0,3.9,CA,US,0,14,100-200,2+
+223,Kids STEM robotics kit,"toys,robotics,children,stem,educational",39.0,1.4,CA,US,0,5,25-50,1-2
+481,Student desktop PC 16GB/512GB,"electronics,computer,desktop,student,ssd",899.0,6.9,CA,US,0,9,200+,2+
+204,Cordless drill driver combo kit,"tools,power_tool,drill,driver,combo,cordless",189.0,2.6,CA,US,0,2,100-200,2+
+208,Wooden coat rack stand,"furniture,coat_rack,wood,home,entryway",129.0,10.8,CA,US,0,8,100-200,2+
+358,Wooden bar-height dining stool,"furniture,stool,wood,kitchen,home",89.0,6.4,CA,US,0,8,50-100,2+
+97,Retinol night serum 30ml,"cosmetics,skincare,serum,retinol,face",22.0,0.14,CA,US,0,7,0-25,0-0.25
+376,Wooden farmhouse dining chair,"furniture,chair,wood,farmhouse",79.0,6.8,CA,US,0,8,50-100,2+
+131,Women's midi dress size L,"apparel,dress,women,midi,clothing",59.0,0.36,CA,US,0,13,50-100,0.25-0.5
+198,Women's velvet dress size S,"apparel,dress,women,velvet,clothing",82.0,0.34,CA,US,0,13,50-100,0.25-0.5
+468,Plastic dry-food cannisters (3 pcs),"kitchen,plastic,storage,cannister",13.0,0.72,CA,US,0,15,0-25,0.5-1
+4,Sony WH-1000XM4 wireless headphones,"electronics,audio,headphones,wireless,noise_cancelling,brand_sony",349.0,0.3,CA,US,1,1,200+,0.25-0.5
+389,Wireless studio-grade speaker,"electronics,audio,speaker,studio,wireless",219.0,4.0,CA,US,0,1,200+,2+
+466,Women's lace wrap dress size M,"apparel,dress,women,lace,wrap",82.0,0.34,CA,US,0,13,50-100,0.25-0.5
+477,Kids STEM bridge building kit,"toys,stem,children,bridge,educational",23.0,0.7,CA,US,0,5,0-25,0.5-1
+126,Acne control face serum 30ml,"cosmetics,skincare,serum,face,acne",23.0,0.12,CA,US,0,7,0-25,0-0.25
+435,Portable CD player with speakers,"electronics,audio,player,cd,portable",52.0,1.15,CA,US,0,18,50-100,1-2
+196,Chocolate wafer sticks 180g,"food,chocolate,snack,wafer",4.0,0.18,CA,US,0,10,0-25,0-0.25
+47,14-inch student laptop 8GB/256GB,"electronics,computer,laptop,student,ssd,brand_lenovo",699.0,1.65,CA,US,0,9,200+,1-2
+414,Plastic pantry bins (3 pack),"kitchen,plastic,storage,pantry",14.0,0.78,CA,US,0,15,0-25,0.5-1
+472,23-inch LED home office monitor,"electronics,monitor,display,23_inch",149.0,3.0,CA,US,0,19,100-200,2+
+385,Portable CD/FM stereo player,"electronics,audio,player,cd,fm",52.0,1.05,CA,US,0,18,50-100,1-2
+230,Women's chiffon evening dress size L,"apparel,dress,women,chiffon,evening",99.0,0.4,CA,US,0,13,50-100,0.25-0.5
+493,Wireless premium bookshelf speakers,"electronics,audio,speaker,bookshelf,premium",189.0,3.9,CA,US,0,1,100-200,2+
+212,Women's satin cocktail dress size M,"apparel,dress,women,satin,cocktail",92.0,0.38,CA,US,0,13,50-100,0.25-0.5
+5,JBL Flip 5 portable Bluetooth speaker,"electronics,audio,speaker,wireless,portable,brand_jbl",129.0,0.55,CA,US,0,1,100-200,0.5-1
+82,Dark chocolate coins 150g,"food,chocolate,cocoa,snack,coins",5.0,0.14,CA,US,0,10,0-25,0-0.25
+298,Women's floral maxi dress size M,"apparel,dress,women,floral,maxi",72.0,0.36,CA,US,0,13,50-100,0.25-0.5
+282,Plastic stackable storage (3 pcs),"kitchen,plastic,storage,stackable",13.0,0.8,CA,US,0,15,0-25,0.5-1
+241,Kids clay craft kit (15 pcs),"toys,craft,children,clay,educational",14.0,0.55,CA,US,0,5,0-25,0.5-1
+222,Cordless compact router tool,"tools,power_tool,router,cordless",159.0,2.3,CA,US,0,2,100-200,2+
+48,Assorted dark chocolate box 12 pieces,"food,chocolate,cocoa,snack,gift_item",18.0,0.35,CA,US,1,10,0-25,0.25-0.5
+178,Chocolate peanut cluster bag 200g,"food,chocolate,snack,peanut",6.0,0.22,CA,US,0,10,0-25,0-0.25
+21,Rechargeable lithium-ion battery 3000mAh,"electronics,battery,lithium,rechargeable,cell,18650",15.0,0.06,CA,US,0,11,0-25,0-0.25
+155,Kids wooden train set (40 pcs),"toys,train,children,wooden,educational",29.0,1.1,CA,US,0,5,25-50,1-2
+170,Women's fleece joggers size S,"apparel,pants,fleece,women,clothing",34.0,0.5,CA,US,0,3,25-50,0.25-0.5
+92,Women's denim jacket size M,"apparel,jacket,denim,women,clothing",59.0,0.9,CA,US,0,3,50-100,0.5-1
+147,Premium chocolate bar 80% cacao,"food,chocolate,cocoa,snack,premium",6.0,0.12,CA,US,0,10,0-25,0-0.25
+382,Plastic cutlery tray,"kitchen,plastic,cutlery,storage",8.0,0.42,CA,US,0,15,0-25,0.25-0.5
+159,Office workstation PC 32GB/1TB,"electronics,computer,desktop,office,ssd",1499.0,8.2,CA,US,0,9,200+,2+
+456,Women's V-neck blouse size M,"apparel,blouse,vneck,women,clothing",33.0,0.34,CA,US,0,3,25-50,0.25-0.5
+502,Luxury lipstick gift set,"cosmetics,makeup,lipstick,gift_item",60.0,0.12,CA,US,1,7,50-100,0-0.25
+479,Vitamin C moisturizing gel 100ml,"cosmetics,skincare,gel,vitamin_c,face",17.0,0.16,CA,US,0,7,0-25,0-0.25

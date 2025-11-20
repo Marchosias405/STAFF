@@ -1,173 +1,185 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>HS Code Predictor</title>
-		<link
-			href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css"
-			rel="stylesheet"
-		/>
-		<style>
-			body {
-				background: black;
-				min-height: 100vh;
-				padding: 2rem 0;
-			}
-			.card {
-				background: gray;
-				border: 1px;
-				border-color: white;
-				box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-			}
-			.card-header {
-				background: black;
-				color: white;
-				border-color: white;
-				padding: 1.5rem;
-			}
-			.prediction-item {
-				border: 2px solid #e5e7eb;
-				padding: 1.25rem;
-				margin-bottom: 1rem;
-				transition: all 0.3s;
-			}
-			.prediction-item.top {
-				border-color: #10b981;
-				background: gray;
-				border-width: 3px;
-			}
-			.hs-code {
-				font-size: 1.5rem;
-				font-weight: 700;
-				color: blue;
-			}
-			.prediction-item.top .hs-code {
-				color: #10b981;
-			}
-			.flag-item {
-				background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-				border-left: 4px solid #f59e0b;
-				padding: 1rem;
-				margin-bottom: 0.75rem;
-			}
-			.badge-top {
-				background: #10b981;
-				color: white;
-				padding: 0.5rem 1rem;
-				font-weight: 600;
-				margin-bottom: 0.5rem;
-			}
-		</style>
-	</head>
-	<body>
-		<div class="container">
-			<h1 class="text-white text-center mb-4">HS Code Predictor</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HS Code Predictor</title>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background: black;
+        min-height: 100vh;
+        padding: 2rem 0;
+      }
+      .card {
+        background: gray;
+        border: 1px;
+        border-color: white;
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+      }
+      .card-header {
+        background: black;
+        color: white;
+        border-color: white;
+        padding: 1.5rem;
+      }
+      .prediction-item {
+        border: 2px solid #e5e7eb;
+        padding: 1.25rem;
+        margin-bottom: 1rem;
+        transition: all 0.3s;
+      }
+      .prediction-item.top {
+        border-color: #10b981;
+        background: gray;
+        border-width: 3px;
+      }
+      .hs-code {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: blue;
+      }
+      .prediction-item.top .hs-code {
+        color: #10b981;
+      }
+      .flag-item {
+        background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+        border-left: 4px solid #f59e0b;
+        padding: 1rem;
+        margin-bottom: 0.75rem;
+      }
+      .badge-top {
+        background: #10b981;
+        color: white;
+        padding: 0.5rem 1rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-white text-center mb-4">HS Code Predictor</h1>
 
-			{% if error_msg %}
-			<div class="alert alert-danger">{{ error_msg }}</div>
-			{% endif %}
+      {% if error_msg %}
+      <div class="alert alert-danger">{{ error_msg }}</div>
+      {% endif %}
 
-			<div class="row">
-				<div class="col-lg-6">
-					<div class="card">
-						<div class="card-header">
-							<h2 class="mb-0">Product Information</h2>
-						</div>
-						<div class="card-body p-4">
-							<form method="post">
-								{% csrf_token %}
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="card">
+            <div class="card-header">
+              <h2 class="mb-0">Product Information</h2>
+            </div>
+            <div class="card-body p-4">
+              <form method="post">
+                {% csrf_token %}
 
-								<div class="mb-3">
-									{{ form.tags.label_tag }} {{ form.tags }}
-									<small class="form-text text-muted"
-										>{{ form.tags.help_text }}</small
-									>
-								</div>
+                <div class="mb-3">
+                  {{ form.tags.label_tag }} {{ form.tags }}
+                  <small class="form-text text-muted">
+                    {{ form.tags.help_text }}
+                  </small>
+                </div>
 
-								<div class="row mb-3">
-									<div class="col-md-6">
-										{{ form.price.label_tag }} {{ form.price }}
-									</div>
-									<div class="col-md-6">
-										{{ form.weight.label_tag }} {{ form.weight }}
-									</div>
-								</div>
+                <div class="row mb-3">
+                  <div class="col-md-6">
+                    {{ form.price.label_tag }} {{ form.price }}
+                  </div>
+                  <div class="col-md-6">
+                    {{ form.weight.label_tag }} {{ form.weight }}
+                  </div>
+                </div>
 
-								<div class="row mb-3">
-									<div class="col-md-6">
-										{{ form.origin.label_tag }} {{ form.origin }}
-									</div>
-									<div class="col-md-6">
-										{{ form.dest.label_tag }} {{ form.dest }}
-									</div>
-								</div>
+                <div class="row mb-3">
+                  <div class="col-md-6">
+                    {{ form.origin.label_tag }} {{ form.origin }}
+                  </div>
+                  <div class="col-md-6">
+                    {{ form.dest.label_tag }} {{ form.dest }}
+                  </div>
+                </div>
 
-								<div class="row mb-3">
-									<div class="col-md-6">
-										<div class="form-check">
-											{{ form.gift }} {{ form.gift.label_tag }}
-										</div>
-									</div>
-									<div class="col-md-6">
-										{{ form.topk.label_tag }} {{ form.topk }}
-									</div>
-								</div>
+                <div class="row mb-3">
+                  <div class="col-md-6">
+                    <div class="form-check">
+                      {{ form.gift }} {{ form.gift.label_tag }}
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    {{ form.topk.label_tag }} {{ form.topk }}
+                  </div>
+                </div>
 
-								<button type="submit" class="btn btn-primary w-100">
-									Predict HS Code
-								</button>
-							</form>
-						</div>
-					</div>
-				</div>
+                <button type="submit" class="btn btn-primary w-100">
+                  Predict HS Code
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
 
-				<div class="col-lg-6">
-					{% if results %}
-					<div class="card">
-						<div class="card-header">
-							<h2 class="mb-0">Predictions</h2>
-						</div>
-						<div class="card-body p-4">
-							{% for pred in results.predictions %}
-							<div class="prediction-item {% if forloop.first %}top{% endif %}">
-								{% if forloop.first %}
-								<span class="badge-top">Top Prediction</span>
-								{% endif %}
+        <div class="col-lg-6">
+          {% if results %}
+          <div class="card">
+            <div class="card-header">
+              <h2 class="mb-0">Predictions</h2>
+            </div>
+            <div class="card-body p-4">
+              {% for pred in results.predictions %}
+              <div class="prediction-item {% if forloop.first %}top{% endif %}">
+                {% if forloop.first %}
+                <span class="badge-top">Top Prediction</span>
+                {% endif %}
 
-								<div class="hs-code">HS {{ pred.hs_code }}</div>
+                <!-- Heading: HS code (fallback to label_id if needed) -->
+                <div class="hs-code">
+                  {% if pred.hs_code %}
+                    HS {{ pred.hs_code }}
+                  {% else %}
+                    Label {{ pred.label_id }}
+                  {% endif %}
+                </div>
 
-								{% if pred.description %}
-								<div class="text-muted mb-2">{{ pred.description }}</div>
-								{% endif %}
+                <!-- Description: show clean title, fallback to full text -->
+                {% if pred.title %}
+                  <div class="text-muted mb-2">{{ pred.title }}</div>
+                {% elif pred.full_text %}
+                  <div class="text-muted mb-2">{{ pred.full_text }}</div>
+                {% endif %}
 
-								<div class="d-flex justify-content-between align-items-center">
-									<span class="small text-muted">Score</span>
-									<span class="fw-bold"
-										>{{ pred.confidence|floatformat:2 }}</span
-									>
-								</div>
-							</div>
-							{% endfor %} {% if results.flags %}
-							<div class="mt-4">
-								<h5 class="mb-3">Validation Flags</h5>
-								{% for flag in results.flags %}
-								<div class="flag-item">{{ flag }}</div>
-								{% endfor %}
-							</div>
-							{% endif %}
-						</div>
-					</div>
-					{% else %}
-					<div class="card">
-						<div class="card-body text-center p-5">
-							<h4 class="text-muted">No predictions yet</h4>
-							<p class="text-muted">Fill out the form to see results</p>
-						</div>
-					</div>
-					{% endif %}
-				</div>
-			</div>
-		</div>
-	</body>
+                <div class="d-flex justify-content-between align-items-center">
+                  <span class="small text-muted">Score</span>
+                  <span class="fw-bold">
+                    {{ pred.confidence|floatformat:2 }}
+                  </span>
+                </div>
+              </div>
+              {% endfor %}
+
+              {% if results.flags %}
+              <div class="mt-4">
+                <h5 class="mb-3">Validation Flags</h5>
+                {% for flag in results.flags %}
+                <div class="flag-item">{{ flag }}</div>
+                {% endfor %}
+              </div>
+              {% endif %}
+            </div>
+          </div>
+          {% else %}
+          <div class="card">
+            <div class="card-body text-center p-5">
+              <h4 class="text-muted">No predictions yet</h4>
+              <p class="text-muted">Fill out the form to see results</p>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
