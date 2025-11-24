@@ -1,17 +1,211 @@
 id,description,tags,price,weight,origin,dest,gift,label_id,price_bin,weight_bin
-22,mech kb gaming,"electronics,computer,keyboard,gaming",139,0.9,CA,US,0,9,100-200,0.5-1
-6,bosch 18v drill,"tools,powertool,drill,cordless",199,2.0,CA,US,0,2,100-200,1-2
-3,pixel7 128g,"electronics,phone,android,google",799,0.42,CA,GB,0,0,200+,0.25-0.5
-13,pback novel 300pg,"books,printed,paperback",16,0.45,CA,US,0,6,0-25,0.25-0.5
-16,spf50 sunscrn 100ml,"cosmetics,skincare,sunscreen",18,0.15,CA,US,1,7,0-25,0-0.25
-4,sony xm4 wireless hdphns,"electronics,audio,headphones,wireless,sony",349,0.3,CA,US,1,1,200+,0.25-0.5
-5,jbl flip5 bt spkr,"electronics,audio,speaker,bt,jbl",129,0.55,CA,US,0,1,100-200,0.5-1
+82,cordless leaf blwr,"tools,power_tool,blower",169,2.6,CA,US,0,2,100-200,2+
+175,art pst 12,"paper,postcard,art",11,0.1,CA,US,0,16,0-25,0-0.25
+54,wood end tbl,"furniture,table,side",149,9.9,CA,US,0,8,100-200,2+
+249,hi tower spkr,"electronics,audio,speaker",219,6.2,CA,US,0,1,200+,2+
+147,mens crew tn,"apparel,shirt,men",18,0.22,CA,US,0,3,0-25,0-0.25
+98,womens thermal legs,"apparel,leggings,thermal",28,0.33,CA,US,0,3,25-50,0.25-0.5
+106,mint choc trfl box,"food,chocolate,mint",7,0.22,CA,US,0,10,0-25,0-0.25
+221,vit e face srm,"cosmetics,skincare,serum",20,0.13,CA,US,0,7,0-25,0-0.25
+228,snack bins 6pk,"kitchen,plastic,storage",12,0.7,CA,US,0,15,0-25,0.5-1
+104,wood sidebd cabnt,"furniture,cabinet,wood",249,18.3,CA,US,0,8,200+,2+
+51,kids world map puzzl,"toys,puzzle,kids,world",19,0.6,CA,US,0,5,0-25,0.5-1
+152,modrn fic bk,"books,paperback,fiction",10,0.32,CA,US,0,6,0-25,0.25-0.5
+238,carml sqrs bk,"food,chocolate,caramel",5,0.14,CA,US,0,10,0-25,0-0.25
+127,cd fm rad,"electronics,audio,cd",49,1.0,CA,US,0,18,25-50,0.5-1
+231,wire amp bookshelf,"electronics,audio,amp",119,1.8,CA,US,0,1,100-200,1-2
+198,womens dnm skrt,"apparel,skirt,women",27,0.35,CA,US,0,3,25-50,0.25-0.5
+1,iphone14 128g,"electronics,phone,smart,cell,apple",999,0.4,CA,US,0,0,200+,0.25-0.5
+53,spf 40 day lotion,"cosmetics,skincare,sunscreen",19,0.2,CA,US,0,7,0-25,0-0.25
+167,aha srm 30ml,"cosmetics,skincare,serum",21,0.15,CA,US,0,7,0-25,0-0.25
+30,cordless hammer drill,"tools,power_tool,drill,cordless",219,2.1,CA,US,0,2,200+,2+
+233,stack ring toy,"toys,wood,kids",18,0.75,CA,US,0,5,0-25,0.5-1
+194,retro cube g,"electronics,gaming,console",72,0.52,CA,US,0,17,50-100,0.5-1
+74,plast water jug 2l,"kitchen,plastic,pitcher",9,0.45,CA,US,0,15,0-25,0.25-0.5
+41,mystery pb novel,"books,paperback,reading",12,0.4,CA,US,0,6,0-25,0.25-0.5
+66,fatasy brick novel,"books,paperback,fantasy",16,0.58,CA,US,0,6,0-25,0.5-1
+275,strip led,"electronics,battery,light",22,0.18,CA,US,0,11,0-25,0-0.25
+14,hcover cookbook,"books,printed,hardcover",28,0.9,CA,US,0,6,25-50,0.5-1
+240,gown chiffon,"apparel,dress,women",119,0.46,CA,US,0,13,100-200,0.25-0.5
+137,mini offc pc,"electronics,computer,desktop",549,4.8,CA,US,0,9,200+,2+
+176,game sys 1tb,"electronics,gaming,console",399,1.6,CA,US,0,17,200+,1-2
+133,kids astro kit,"toys,science,astro",22,0.7,CA,US,0,5,0-25,0.5-1
+258,wrap flower drs,"apparel,dress,women",74,0.34,CA,US,0,13,50-100,0.25-0.5
+2,galaxy s21 ultra 5g,"electronics,phone,smart,android,samsung",1199,0.45,CA,US,0,0,200+,0.25-0.5
+163,wire amp mini,"electronics,audio,amp",119,1.8,CA,US,0,1,100-200,1-2
+92,plast shoe box 4pk,"kitchen,plastic,storage",22,1.2,CA,US,0,15,0-25,1-2
+94,retro mini console,"electronics,gaming,retro",59,0.35,CA,US,0,17,50-100,0.25-0.5
+180,womens knit swt,"apparel,sweater,women",39,0.58,CA,US,0,3,25-50,0.5-1
+115,kid shap sort,"toys,wood,sorter,kids",18,0.75,CA,US,0,5,0-25,0.5-1
+235,aha srm face,"cosmetics,skincare,serum",21,0.15,CA,US,0,7,0-25,0-0.25
+71,usb mini fan,"electronics,battery,fan",14,0.18,CA,US,0,11,0-25,0-0.25
+118,bedrm dresser wood,"furniture,dresser,wood",259,19.8,CA,US,0,8,200+,2+
+136,wood shelf 5t,"furniture,bookshelf,wood",199,14.5,CA,US,0,8,100-200,2+
+268,belt sndr 18v,"tools,power_tool,sander",179,2.85,CA,US,0,2,100-200,2+
+32,fantasy novel boxset,"books,paperback,reading,fantasy",42,1.1,CA,US,0,6,25-50,1-2
+192,plast bowls,"kitchen,plastic,bowl",12,0.6,CA,US,0,15,0-25,0.5-1
+285,aha face ser,"cosmetics,skincare,serum",21,0.15,CA,US,0,7,0-25,0-0.25
+84,ya fantasy bk,"books,paperback,fantasy",14,0.48,CA,US,0,6,0-25,0.25-0.5
+111,mens henley l,"apparel,shirt,henley",26,0.34,CA,US,0,3,25-50,0.25-0.5
+289,wrk lite mag,"electronics,battery,light",24,0.22,CA,US,0,11,0-25,0-0.25
+158,womens maxi t,"apparel,dress,women,maxi",78,0.38,CA,US,0,13,50-100,0.25-0.5
+171,mag desk lite,"electronics,battery,light",24,0.22,CA,US,0,11,0-25,0-0.25
+166,poetry 180pg,"books,paperback,poetry",9,0.28,CA,US,0,6,0-25,0.25-0.5
 23,makeup kit + brush,"cosmetics,makeup,kit",35,0.4,CA,US,1,7,25-50,0.25-0.5
-18,dell insp15 8g/256,"electronics,computer,laptop,dell",799,1.8,CA,US,0,9,200+,1-2
-21,li-ion batt 3000mah,"electronics,battery,lithium",15,0.06,CA,US,0,11,0-25,0-0.25
-24,kids puzzle 500pc,"toys,puzzle,kids",14,0.55,CA,US,0,5,0-25,0.5-1
-8,mens cotton tee L,"apparel,tshirt,cotton,men",20,0.2,CA,US,1,3,0-25,0-0.25
+170,carml sqrs,"food,chocolate,caramel",5,0.14,CA,US,0,10,0-25,0-0.25
+109,hard shell case 19in,"bags,luggage,carry_on",109,2.55,CA,US,0,14,100-200,2+
+34,set 4 wood dining chairs,"furniture,chair,wood,dining",349,18.0,CA,US,0,8,200+,2+
+181,dual tower spkr,"electronics,audio,speaker",219,6.2,CA,US,0,1,200+,2+
 11,plush teddy br,"toys,plush,teddy,kids",25,0.35,CA,US,1,5,0-25,0.25-0.5
-15,face crm 50ml,"cosmetics,skincare,cream",22,0.1,CA,US,0,7,0-25,0-0.25
-20,dark choc 70% 100g,"food,chocolate,cocoa,snack",4,0.1,CA,US,1,10,0-25,0-0.25
+179,mens jogg pant,"apparel,pants,men",29,0.5,CA,US,0,3,25-50,0.25-0.5
+185,lav tonr,"cosmetics,skincare,toner",15,0.2,CA,US,0,7,0-25,0-0.25
+112,womens lounge pant m,"apparel,pants,women,lounge",29,0.42,CA,US,0,3,25-50,0.25-0.5
+78,21in slim scrn,"electronics,monitor,21_inch",129,2.9,CA,US,0,19,100-200,2+
+204,wood dining chr,"furniture,chair,wood",79,6.7,CA,US,0,8,50-100,2+
+91,carryon shell 22in,"bags,luggage,carry_on",129,3.1,CA,US,0,14,100-200,2+
+168,wood dresser,"furniture,dresser,wood",259,19.8,CA,US,0,8,200+,2+
+155,offc pc 32gb ram,"electronics,computer,desktop",1299,8.1,CA,US,0,9,200+,2+
+60,plast stor tub pair,"kitchen,plastic,storage",12,0.85,CA,US,0,15,0-25,0.5-1
+295,cd ply,"electronics,audio,cd",49,1.0,CA,US,0,18,25-50,0.5-1
+80,womens fleece joggr,"apparel,pants,fleece",34,0.5,CA,US,0,3,25-50,0.25-0.5
+239,mag work lite,"electronics,battery,light",24,0.22,CA,US,0,11,0-25,0-0.25
+65,kids abc wood blks,"toys,blocks,wood,abc",24,0.95,CA,US,0,5,0-25,0.5-1
+102,modern fic novel,"books,paperback,fiction",10,0.32,CA,US,0,6,0-25,0.25-0.5
+196,24in ips m,"electronics,monitor,24_inch",169,3.4,CA,US,0,19,100-200,2+
+151,kids solar exp kit,"toys,science,solar",21,0.65,CA,US,0,5,0-25,0.5-1
+234,poetry short bk,"books,paperback,poetry",9,0.28,CA,US,0,6,0-25,0.25-0.5
+187,pc offc mini,"electronics,computer,desktop",549,4.8,CA,US,0,9,200+,2+
+85,spf20 face mois,"cosmetics,skincare,spf20",19,0.14,CA,US,0,7,0-25,0-0.25
+226,tier maxi drs,"apparel,dress,women",78,0.38,CA,US,0,13,50-100,0.25-0.5
+283,kid ring set,"toys,wood,kids",18,0.75,CA,US,0,5,0-25,0.5-1
+45,dark choc snack bar,"food,chocolate,snack",4,0.12,CA,US,0,10,0-25,0-0.25
+293,pst art,"paper,postcard,art",11,0.1,CA,US,0,16,0-25,0-0.25
+38,noise cncl bt speaker,"electronics,audio,speaker,bt",159,2.4,CA,US,0,1,100-200,2+
+134,romnc 300pg,"books,paperback,romance",10,0.34,CA,US,0,6,0-25,0.25-0.5
+5,jbl flip5 bt spkr,"electronics,audio,speaker,bt,jbl",129,0.55,CA,US,0,1,100-200,0.5-1
+49,bt desk spkr,"electronics,audio,speaker,desk",69,1.1,CA,US,0,1,50-100,1-2
+140,floral wrap d,"apparel,dress,women",74,0.34,CA,US,0,13,50-100,0.25-0.5
+269,kids solr kit,"toys,science,solar",21,0.65,CA,US,0,5,0-25,0.5-1
 7,dewalt 20v impact drv,"tools,powertool,driver,cordless",229,1.6,CA,US,0,2,200+,1-2
+216,womens denim shrt,"apparel,shorts,women",27,0.35,CA,US,0,3,25-50,0.25-0.5
+266,wm denim shrt,"apparel,shorts,women",27,0.35,CA,US,0,3,25-50,0.25-0.5
+10,run shoes sz10,"footwear,sneakers,running,textile",95,0.8,CA,US,0,4,50-100,0.5-1
+299,tower spkr,"electronics,audio,speaker",219,6.2,CA,US,0,1,200+,2+
+40,kids edu block set,"toys,blocks,kids,edu",32,1.2,CA,US,0,5,25-50,1-2
+199,woofer bt spkr,"electronics,audio,speaker",159,3.4,CA,US,0,1,100-200,2+
+55,office pc tower,"electronics,computer,desktop",599,5.7,CA,US,0,9,200+,2+
+223,office pc hi spd,"electronics,computer,desktop",1299,8.1,CA,US,0,9,200+,2+
+47,mens sport tee m,"apparel,shirt,men,sport",22,0.25,CA,US,0,3,0-25,0-0.25
+182,cord palm sndr,"tools,power_tool,sander",119,1.65,CA,US,0,2,100-200,1-2
+62,womens crop hoodie,"apparel,hoodie,women",34,0.48,CA,US,0,3,25-50,0.25-0.5
+288,sqrs choco,"food,chocolate,caramel",5,0.14,CA,US,0,10,0-25,0-0.25
+247,men jog pant,"apparel,pants,men",29,0.5,CA,US,0,3,25-50,0.25-0.5
+292,stor bins,"kitchen,plastic,storage",14,0.78,CA,US,0,15,0-25,0.5-1
+161,mens crew hen,"apparel,shirt,men",26,0.34,CA,US,0,3,25-50,0.25-0.5
+264,24in disp ips,"electronics,monitor,24_inch",169,3.4,CA,US,0,19,100-200,2+
+124,pntry bins plast,"kitchen,plastic,storage",14,0.78,CA,US,0,15,0-25,0.5-1
+262,retro cube,"electronics,gaming,retro",72,0.52,CA,US,0,17,50-100,0.5-1
+159,shell case 19in,"bags,luggage,carry_on",109,2.55,CA,US,0,14,100-200,2+
+271,vit e srm,"cosmetics,skincare,serum",20,0.13,CA,US,0,7,0-25,0-0.25
+27,refurb iphone13 128g,"electronics,phone,smartphone,refurb",799,0.38,CA,US,0,0,200+,0.25-0.5
+44,15in thin laptop,"electronics,computer,laptop",999,1.85,CA,US,0,9,200+,1-2
+93,holiday card pack,"paper,card,postcard",11,0.12,CA,US,0,16,0-25,0-0.25
+26,family boardgame 4p,"toys,board_game,family,edu",32,1.2,CA,US,0,5,25-50,1-2
+150,cord belt sndr,"tools,power_tool,sander",179,2.85,CA,US,0,2,100-200,2+
+33,vit c face serum 30ml,"cosmetics,skincare,serum,face",27,0.12,CA,US,0,7,25-50,0-0.25
+298,wm knit,"apparel,sweater,women",39,0.58,CA,US,0,3,25-50,0.5-1
+282,dem ham 20v,"tools,power_tool,hammer",229,3.6,CA,US,0,2,200+,2+
+18,dell insp15 8g/256,"electronics,computer,laptop,dell",799,1.8,CA,US,0,9,200+,1-2
+143,vint travel cards,"paper,postcard,vintage",12,0.12,CA,US,0,16,0-25,0-0.25
+20,dark choc 70% 100g,"food,chocolate,cocoa,snack",4,0.1,CA,US,1,10,0-25,0-0.25
+125,art pstcrd 12pk,"paper,postcard,art",11,0.1,CA,US,0,16,0-25,0-0.25
+146,24in ips disp,"electronics,monitor,24_inch",169,3.4,CA,US,0,19,100-200,2+
+24,kids puzzle 500pc,"toys,puzzle,kids",14,0.55,CA,US,0,5,0-25,0.5-1
+260,plast bowls 6pk,"kitchen,plastic,bowls",12,0.6,CA,US,0,15,0-25,0.5-1
+256,salt carm bits,"food,chocolate,salted",6,0.16,CA,US,0,10,0-25,0-0.25
+86,wood bar stool,"furniture,stool,bar",89,7.4,CA,US,0,8,50-100,2+
+50,cordless drill combo,"tools,power_tool,drill,set",189,2.6,CA,US,0,2,100-200,2+
+217,wire woofer spkr,"electronics,audio,woofer",159,3.4,CA,US,0,1,100-200,2+
+244,game sys1tb,"electronics,gaming,console",399,1.6,CA,US,0,17,200+,1-2
+219,solr sci kit kid,"toys,science,solar",21,0.65,CA,US,0,5,0-25,0.5-1
+76,4k game console 2tb,"electronics,gaming,console",499,1.9,CA,US,0,17,200+,1-2
+156,mint choc trfls,"food,chocolate,mint",7,0.22,CA,US,0,10,0-25,0-0.25
+16,spf50 sunscrn 100ml,"cosmetics,skincare,sunscreen",18,0.15,CA,US,1,7,0-25,0-0.25
+225,led strip lite,"electronics,battery,light",22,0.18,CA,US,0,11,0-25,0-0.25
+243,art pst pack,"paper,postcard,art",11,0.1,CA,US,0,16,0-25,0-0.25
+100,cordless hedge trimr,"tools,power_tool,trimmer",139,2.2,CA,US,0,2,100-200,2+
+178,27in mon,"electronics,monitor,27_inch",299,5.4,CA,US,0,19,200+,2+
+255,mini office pc,"electronics,computer,desktop",549,4.8,CA,US,0,9,200+,2+
+211,city pstcrd pack,"paper,postcard,city",10,0.1,CA,US,0,16,0-25,0-0.25
+113,wire amp bt,"electronics,audio,amp",119,1.8,CA,US,0,1,100-200,1-2
+287,stu laptop,"electronics,computer,laptop",649,1.55,CA,US,0,9,200+,1-2
+297,men jogg,"apparel,pants,men",29,0.5,CA,US,0,3,25-50,0.25-0.5
+28,nc overear headphones,"electronics,audio,headphones,wireless",189,0.28,CA,US,0,1,100-200,0.25-0.5
+279,mens hen tee,"apparel,shirt,men",26,0.34,CA,US,0,3,25-50,0.25-0.5
+129,mens joggr l,"apparel,pants,joggers",29,0.5,CA,US,0,3,25-50,0.25-0.5
+99,bt radio spkr,"electronics,audio,speaker,radio",59,0.6,CA,US,0,1,50-100,0.5-1
+173,lgt carryon,"bags,luggage,carry_on",109,2.7,CA,US,0,14,100-200,2+
+251,kid astro kit,"toys,science,kids",22,0.7,CA,US,0,5,0-25,0.5-1
+272,sidebd cabnt,"furniture,cabinet,wood",249,18.3,CA,US,0,8,200+,2+
+39,cordless circ saw 18v,"tools,power_tool,saw,cordless",179,3.1,CA,US,0,2,100-200,2+
+203,lav nite cream,"cosmetics,skincare,cream",18,0.16,CA,US,0,7,0-25,0-0.25
+300,palm sndr,"tools,power_tool,sander",119,1.65,CA,US,0,2,100-200,1-2
+123,21in carryon lt,"bags,luggage,carry_on",109,2.7,CA,US,0,14,100-200,2+
+172,eve gown m,"apparel,dress,women",119,0.46,CA,US,0,13,100-200,0.25-0.5
+114,cordl demo hmmer,"tools,power_tool,hammer",229,3.6,CA,US,0,2,200+,2+
+4,sony xm4 wireless hdphns,"electronics,audio,headphones,wireless,sony",349,0.3,CA,US,1,1,200+,0.25-0.5
+215,mens crew tee,"apparel,shirt,men",18,0.22,CA,US,0,3,0-25,0-0.25
+154,wood cabnt,"furniture,cabinet,wood",249,18.3,CA,US,0,8,200+,2+
+280,wm lounge pant,"apparel,pants,women",29,0.42,CA,US,0,3,25-50,0.25-0.5
+122,chiff gown m,"apparel,dress,women",119,0.46,CA,US,0,13,100-200,0.25-0.5
+6,bosch 18v drill,"tools,powertool,drill,cordless",199,2.0,CA,US,0,2,100-200,1-2
+87,home offc pc,"electronics,computer,desktop",699,6.2,CA,US,0,9,200+,2+
+205,office pc 16gb,"electronics,computer,desktop",899,7.5,CA,US,0,9,200+,2+
+278,plast tubs,"kitchen,plastic,storage",12,0.7,CA,US,0,15,0-25,0.5-1
+209,roller bag 30l,"bags,luggage,rolling",54,0.9,CA,US,0,14,50-100,0.5-1
+57,work led torch,"electronics,battery,light,work",26,0.25,CA,US,0,11,25-50,0-0.25
+206,holiday choc box,"food,chocolate,gift",12,0.26,CA,US,1,10,0-25,0.25-0.5
+138,salt carml choc,"food,chocolate,salted",6,0.16,CA,US,0,10,0-25,0-0.25
+174,plast pntry bkts,"kitchen,plastic,storage",14,0.78,CA,US,0,15,0-25,0.5-1
+177,cd fm p,"electronics,audio,cd",49,1.0,CA,US,0,18,25-50,0.5-1
+145,cd stereo plyr,"electronics,audio,cd",52,1.05,CA,US,0,18,50-100,1-2
+64,cordless drill drv kit,"tools,power_tool,drill,driver",189,2.6,CA,US,0,2,100-200,2+
+189,headlite led,"electronics,battery,headlamp",22,0.16,CA,US,0,11,0-25,0-0.25
+148,womens denm shrt,"apparel,shorts,women",27,0.35,CA,US,0,3,25-50,0.25-0.5
+83,kids space kit,"toys,science,space",24,0.65,CA,US,0,5,0-25,0.5-1
+144,retro cube cons,"electronics,gaming,retro",72,0.52,CA,US,0,17,50-100,0.5-1
+291,carryon21,"bags,luggage,carry_on",109,2.7,CA,US,0,14,100-200,2+
+191,28in suitc big,"bags,luggage,large",179,4.6,CA,US,0,14,100-200,2+
+246,27in mon qhd,"electronics,monitor,27_inch",299,5.4,CA,US,0,19,200+,2+
+252,romance bk,"books,paperback,romance",10,0.34,CA,US,0,6,0-25,0.25-0.5
+236,wood drssr,"furniture,dresser,wood",259,19.8,CA,US,0,8,200+,2+
+70,milk choc bar 90g,"food,chocolate,snack",3,0.12,CA,US,0,10,0-25,0-0.25
+37,4x aa rech batt,"electronics,battery,lithium,aa",22,0.18,CA,US,0,11,0-25,0-0.25
+135,lav toner fm,"cosmetics,skincare,toner",15,0.2,CA,US,0,7,0-25,0-0.25
+190,wrap d flrl,"apparel,dress,women",74,0.34,CA,US,0,13,50-100,0.25-0.5
+77,cd usb music plyr,"electronics,audio,cd,usb",69,1.2,CA,US,0,18,50-100,1-2
+254,wood bkshelf,"furniture,bookshelf,wood",199,14.5,CA,US,0,8,100-200,2+
+202,detective crime bk,"books,paperback,crime",12,0.33,CA,US,0,6,0-25,0.25-0.5
+186,bkshf 5 tier,"furniture,bookshelf,wood",199,14.5,CA,US,0,8,100-200,2+
+259,28in big case,"bags,luggage,large",179,4.6,CA,US,0,14,100-200,2+
+227,carry on hardshell,"bags,luggage,carry_on",109,2.55,CA,US,0,14,100-200,2+
+105,offc pc 32gb,"electronics,computer,desktop",1299,8.1,CA,US,0,9,200+,2+
+52,sci fi mega novel,"books,paperback,scifi",16,0.55,CA,US,0,6,0-25,0.5-1
+19,ipad 10.2 64g,"electronics,computer,tablet,apple",429,0.5,CA,US,0,9,200+,0.25-0.5
+263,cd plyr port,"electronics,audio,cd",52,1.05,CA,US,0,18,50-100,1-2
+72,womens satin dress l,"apparel,dress,women",92,0.38,CA,US,0,13,50-100,0.25-0.5
+22,mech kb gaming,"electronics,computer,keyboard,gaming",139,0.9,CA,US,0,9,100-200,0.5-1
+79,mens thermal ls top,"apparel,shirt,thermal",29,0.4,CA,US,0,3,25-50,0.25-0.5
+121,mag wrk lite,"electronics,battery,worklight",24,0.22,CA,US,0,11,0-25,0-0.25
+21,li-ion batt 3000mah,"electronics,battery,lithium",15,0.06,CA,US,0,11,0-25,0-0.25
+120,carml choc sqrs,"food,chocolate,caramel",5,0.14,CA,US,0,10,0-25,0-0.25
+96,26in ips scrn,"electronics,monitor,26_inch",169,4.1,CA,US,0,19,100-200,2+
+257,led headlite,"electronics,battery,headlamp",22,0.16,CA,US,0,11,0-25,0-0.25
+153,vit e nite srm,"cosmetics,skincare,serum",20,0.13,CA,US,0,7,0-25,0-0.25
+149,woofr spkr,"electronics,audio,speaker",159,3.4,CA,US,0,1,100-200,2+
+90,womens maxi dress m,"apparel,dress,women,maxi",72,0.36,CA,US,0,13,50-100,0.25-0.5
+61,mens cotton shorts,"apparel,shorts,men",21,0.28,CA,US,0,3,0-25,0.25-0.5
+195,cd plyr fm,"electronics,audio,cd",52,1.05,CA,US,0,18,50-100,1-2
+157,led strip rb,"electronics,battery,light",22,0.18,CA,US,0,11,0-25,0-0.25
+8,mens cotton tee L,"apparel,tshirt,cotton,men",20,0.2,CA,US,1,3,0-25,0-0.25
+36,variety choc gift box,"food,chocolate,snack,gift",29,0.55,CA,US,1,10,25-50,0.5-1

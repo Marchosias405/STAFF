@@ -1,10 +1,11 @@
 {
-  "n_train": 16,
-  "n_valid": 4,
-  "n_test": 4,
-  "n_features": 58,
+  "n_train": 210,
+  "n_valid": 45,
+  "n_test": 45,
+  "n_features": 495,
   "used_cols": [
     "tags",
+    "description",
     "price_bin",
     "weight_bin",
     "origin",

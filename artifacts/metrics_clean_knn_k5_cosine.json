@@ -1,10 +1,10 @@
 {
   "dataset": "clean",
   "model": "knn_k5_cosine",
-  "acc_valid": 0.75,
-  "acc_test": 0.25,
-  "macro_f1_valid": 0.6666666666666666,
-  "macro_f1_test": 0.16666666666666666,
+  "acc_valid": 1.0,
+  "acc_test": 1.0,
+  "macro_f1_valid": 1.0,
+  "macro_f1_test": 1.0,
   "acc3_valid": 1.0,
-  "acc3_test": 0.5
+  "acc3_test": 1.0
 }

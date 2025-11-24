@@ -1,3 +1,4 @@
 term,category,notes
-"gift","Exemption","Indicates a gift shipment (possible duty exemption if ≤ CAD$60):contentReference[oaicite:34]{index=34}"
-"present","Exemption","Synonym for gift; may imply item is a non-commercial gift"
+"gift","Exemption","Indicates shipment is a personal gift which may qualify for duty or tax exemption under a value threshold"
+"present","Exemption","Synonym for gift used in descriptions of personal shipments"
+"birthday","Exemption","Marks shipment as a birthday gift in a non commercial context"

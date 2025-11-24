@@ -58,7 +58,7 @@ class HSPredictionForm(forms.Form):
     
     topk = forms.IntegerField(
         label="Number of Predictions",
-        initial=3,
+        initial=5,
         min_value=1,
         max_value=10,
         widget=forms.NumberInput(attrs={

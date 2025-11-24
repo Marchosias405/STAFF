@@ -1,0 +1,112 @@
+# -------------------------
+# Python / Virtual Env
+# -------------------------
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+# -------------------------
+# Django
+# -------------------------
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Django secret key
+config/settings_local.py
+config/.env
+*.env
+
+# -------------------------
+# Jupyter Notebooks
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_export/
+
+# -------------------------
+# Build / Packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+*.egg
+
+# -------------------------
+# IDEs / Editors
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# OS Generated
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Your Project Artifacts
+# (models, preprocessors, metrics, confusion matrices)
+# -------------------------
+artifacts/*.json
+artifacts/*.png
+artifacts/**/*.png
+artifacts/**/*.json
+
+# Do NOT track large artifacts
+artifacts/models/*.joblib
+artifacts/*.joblib
+artifacts/**/*.joblib
+
+# Optional: Keep preprocessors?
+# Uncomment to ignore preprocessors too
+# artifacts/preprocessor_*.joblib
+
+# -------------------------
+# Data Files
+# -------------------------
+data/cleanEmbeddings.csv
+data/noisyEmbeddings.csv
+
+# Raw or sensitive data
+data/*.csv
+!data/hs_mapping.csv
+!data/rules_gift.csv
+!data/rules_restricted.csv
+
+# Allow essential CSV rules & mapping
+# but ignore everything else in /data
+# (Most datasets are large and should not go into Git)
+
+# -------------------------
+# Temporary / Cache Files
+# -------------------------
+.cache/
+tmp/
+temp/
+*.tmp
+
+# -------------------------
+# Reports and PDFs
+# -------------------------
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+# If you want to keep your submissions:
+# !Proposal.pdf
+# !Milestone1.pdf
