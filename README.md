@@ -351,189 +351,127 @@ Quit the server with CTRL-BREAK.
 
 # Demo Examples
 
-> Note: Due to dataset noise, these examples work best when using the **clean (labelled) data**.
+> Note: Due to dataset noise, these examples work best when using the clean (labelled) data, predictions are off for noisy data or data that's not in the training set. See the features pdf to see exactly why.
 
-HS CODE PREDICTOR – DEMO EXAMPLES (FULL INPUT SET)
+### 1. iPhone – Perfect Electronics Example
 
----
+- **Product Tags:** electronics, phone, smartphone, brand_apple
+- **Price:** 999
+- **Origin:** CA
+- **Weight:** 0.40
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **8517**
+  - No flags
 
-1. iPhone – Perfect Electronics Example
+### 2. Sony WH-1000XM4 – Audio Category
 
----
+- **Product Tags:** electronics, audio, headphones, wireless, noise_cancelling
+- **Price:** 349
+- **Origin:** CA
+- **Weight:** 0.30
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **8518**
 
-Product Tags:
-electronics,phone,smartphone,brand_apple
-Price: 999
-Origin: CA
-Weight: 0.40
-Destination: US
-Gift: No
-Expected:
+### 3. Power Bank – Restricted Lithium Battery
 
-- HS Code: 8517
-- No flags
+- **Product Tags:** electronics, battery, lithium, rechargeable, cell
+- **Price:** 15
+- **Origin:** CA
+- **Weight:** 0.06
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **8507**
+  - Restricted Flag: _Lithium battery (Dangerous Goods)_
 
----
+### 4. Men's T-Shirt – Gift Exemption Example
 
-2. Sony WH-1000XM4 – Audio Category
+- **Product Tags:** apparel, shirt, tshirt, cotton, men, clothing
+- **Price:** 20
+- **Origin:** CA
+- **Weight:** 0.20
+- **Destination:** US
+- **Gift:** Yes
+- **Expected:**
+  - HS Code: **6109**
+  - Gift exemption flag
 
----
+### 5. Running Shoes – Footwear
 
-Product Tags:
-electronics,audio,headphones,wireless,noise_cancelling
-Price: 349
-Origin: CA
-Weight: 0.30
-Destination: US
-Gift: No
-Expected:
+- **Product Tags:** footwear, shoes, sneakers, running, textile_upper
+- **Price:** 95
+- **Origin:** CA
+- **Weight:** 0.80
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **6404**
 
-- HS Code: 8518
+### 6. Chocolate Gift Box – Food + Gift
 
----
+- **Product Tags:** food, chocolate, cocoa, snack, gift_item
+- **Price:** 29
+- **Origin:** CA
+- **Weight:** 0.55
+- **Destination:** US
+- **Gift:** Yes
+- **Expected:**
+  - HS Code: **1806**
+  - Gift exemption flag
 
-3. Power Bank – Restricted Lithium Battery
+### 7. Cordless Drill – Tools Category
 
----
+- **Product Tags:** tools, power_tool, drill, cordless
+- **Price:** 219
+- **Origin:** CA
+- **Weight:** 2.10
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **8467**
 
-Product Tags:
-electronics,battery,lithium,rechargeable,cell
-Price: 15
-Origin: CA
-Weight: 0.06
-Destination: US
-Gift: No
-Expected:
+### 8. Rechargeable Flashlight – Restricted
 
-- HS Code: 8507
-- Restricted Flag: Lithium battery (Dangerous Goods)
+- **Product Tags:** electronics, battery, flashlight, usb_c, rechargeable
+- **Price:** 26
+- **Origin:** CA
+- **Weight:** 0.18
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - HS Code: **8507**
+  - Restricted Flag: _Lithium battery_
 
----
+### 9. Lip Gloss – Misfire Example (NLP Limitation)
 
-4. Men’s T-Shirt – Gift Exemption Example
+- **Product Tags:** cosmetics, makeup, lip, gloss
+- **Price:** 22
+- **Origin:** CA
+- **Weight:** 0.10
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - Often misclassified
+  - Demonstrates need for a transformer-based model
 
----
+### 10. Wooden Dining Table – Misfire Example
 
-Product Tags:
-apparel,shirt,tshirt,cotton,men,clothing
-Price: 20
-Origin: CA
-Weight: 0.20
-Destination: US
-Gift: Yes
-Expected:
-
-- HS Code: 6109
-- Gift exemption flag
-
----
-
-5. Running Shoes – Footwear
-
----
-
-Product Tags:
-footwear,shoes,sneakers,running,textile_upper
-Price: 95
-Origin: CA
-Weight: 0.80
-Destination: US
-Gift: No
-Expected:
-
-- HS Code: 6404
-
----
-
-6. Chocolate Gift Box – Food + Gift
-
----
-
-Product Tags:
-food,chocolate,cocoa,snack,gift_item
-Price: 29
-Origin: CA
-Weight: 0.55
-Destination: US
-Gift: Yes
-Expected:
-
-- HS Code: 1806
-- Gift exemption flag
-
----
-
-7. Cordless Drill – Tools Category
-
----
-
-Product Tags:
-tools,power_tool,drill,cordless
-Price: 219
-Origin: CA
-Weight: 2.10
-Destination: US
-Gift: No
-Expected:
-
-- HS Code: 8467
-
----
-
-8. Rechargeable Flashlight – Restricted
-
----
-
-Product Tags:
-electronics,battery,flashlight,usb_c,rechargeable
-Price: 26
-Origin: CA
-Weight: 0.18
-Destination: US
-Gift: No
-Expected:
-
-- HS Code: 8507
-- Restricted Flag: Lithium battery
-
----
-
-9. Misfire Example – Lip Gloss (NLP Limitation)
-
----
-
-Product Tags:
-cosmetics,makeup,lip,gloss
-Price: 22
-Origin: CA
-Weight: 0.10
-Destination: US
-Gift: No
-Expected:
-
-- Likely incorrect HS code
-  Use this to justify: “Why we need BERT.”
-
----
-
-10. Misfire Example – Wooden Dining Table
-
----
-
-Product Tags:
-furniture,table,wood,home,dining
-Price: 299
-Origin: CA
-Weight: 18.00
-Destination: US
-Gift: No
-Expected:
-
-- Sometimes misclassified
-  Perfect to show: sparse category + tag limitations.
+- **Product Tags:** furniture, table, wood, home, dining
+- **Price:** 299
+- **Origin:** CA
+- **Weight:** 18.00
+- **Destination:** US
+- **Gift:** No
+- **Expected:**
+  - Sometimes misclassified
+  - Shows sparse category + tag limitations
 
 # Contributions
 
-Kazi Boni Amin: 1/3
-Ertugrul Yurtseven: 1/3
+Kazi Boni Amin: 1/3,
+Ertugrul Yurtseven: 1/3,
 Brayden Yee: 1/3
